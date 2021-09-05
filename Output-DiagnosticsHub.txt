@@ -1,0 +1,2600 @@
+﻿'HAPI_Start.exe' (Win32): Loaded 'D:\new torrent completed\uni work\hapi game engine\x64\Debug\HAPI_Start.exe'. Symbols loaded.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\gdi32.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\gdi32full.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\msvcp_win.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbase.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'D:\new torrent completed\uni work\hapi game engine\HAPI_Start\HAPI\Libs64\openal32.dll'. Module was built without symbols.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\user32.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\win32u.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\advapi32.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\shell32.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Unloaded 'C:\Windows\System32\msvcrt.dll'
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\XInput1_4.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\opengl32.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\sechost.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\cfgmgr32.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\combase.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\SHCore.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\pdh.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\windows.storage.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\ole32.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\bcryptprimitives.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\winmm.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\shlwapi.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\glu32.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\profapi.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\devobj.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\powrprof.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\winmmbase.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\fltLib.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\imm32.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\InputHost.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\WinTypes.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\CoreMessaging.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\CoreUIComponents.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\ntmarta.dll'. Cannot find or open the PDB file.
+
+HAPI CORE: Starting.
+HAPI is Copyright 2018 Keith Ditchburn
+HAPI CORE: Started OK.
+HAPI Version 2.50
+
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\uxtheme.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\msctf.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\oleaut32.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\nvoglv64.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\setupapi.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\wtsapi32.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\wintrust.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\msasn1.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\crypt32.dll'. Cannot find or open the PDB file.
+The thread 0x2564 has exited with code 0 (0x0).
+The thread 0x18d0 has exited with code 0 (0x0).
+The thread 0xec4 has exited with code 0 (0x0).
+The thread 0x2da8 has exited with code 0 (0x0).
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\dwmapi.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\nvspcap64.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\winsta.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\dinput8.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\hid.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\TextInputFramework.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\clbcatq.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\MMDevAPI.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\propsys.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\AudioSes.dll'. Cannot find or open the PDB file.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\avrt.dll'. Cannot find or open the PDB file.
+HAPI: Started OK.
+'HAPI_Start.exe' (Win32): Loaded 'C:\Windows\System32\perfproc.dll'. Cannot find or open the PDB file.
+HAPI CORE: Stopping.
+
+
+====================================================
+HAPI Version 2.50
+Stats: Total run time: 5.212 seconds
+Runtime ranges: 
+	CPU Range: Min: 14 Max: 15 Average: 14.286 %
+	RAM Range: Min: 53 Max: 68 Average: 66.5 MB
+	FPS Range: Min: 168 Max: 176 Average: 171.86 FPS
+====================================================
+
+HAPI CORE: Stopped. Goodbye.
+
+The thread 0x2798 has exited with code 0 (0x0).
+'HAPI_Start.exe' (Win32): Unloaded 'C:\Windows\System32\hid.dll'
+'HAPI_Start.exe' (Win32): Unloaded 'C:\Windows\System32\dinput8.dll'
+The thread 0x13d0 has exited with code 0 (0x0).
+The thread 0xbcc has exited with code 0 (0x0).
+The thread 0x33e8 has exited with code 0 (0x0).
+The thread 0x17a8 has exited with code 0 (0x0).
+The thread 0x1b0 has exited with code 0 (0x0).
+The thread 0x2208 has exited with code 0 (0x0).
+The thread 0x36f0 has exited with code 0 (0x0).
+The thread 0x30ec has exited with code 0 (0x0).
+The thread 0x1a68 has exited with code 0 (0x0).
+The thread 0x1c04 has exited with code 0 (0x0).
+The thread 0x1464 has exited with code 0 (0x0).
+Detected memory leaks!
+Dumping objects ->
+{6960} normal block at 0x000002539CA1B1A0, 16 bytes long.
+ Data: < 0  S           > C8 30 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6959} normal block at 0x000002539CA1BE20, 16 bytes long.
+ Data: < 0  S           > A0 30 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6958} normal block at 0x000002539CA1B1F0, 16 bytes long.
+ Data: <x0  S           > 78 30 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6955} normal block at 0x000002539CA43050, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6954} normal block at 0x000002539CA20410, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6944} normal block at 0x000002539CA45250, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6940} normal block at 0x000002539CA1BDD0, 16 bytes long.
+ Data: < 6  S           > 08 36 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6939} normal block at 0x000002539CA1C140, 16 bytes long.
+ Data: < 5  S           > E0 35 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6938} normal block at 0x000002539CA1B790, 16 bytes long.
+ Data: < 5  S           > B8 35 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6935} normal block at 0x000002539CA43590, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6934} normal block at 0x000002539CA21010, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6924} normal block at 0x000002539CA45BB0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6920} normal block at 0x000002539CA1B880, 16 bytes long.
+ Data: <(5  S           > 28 35 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6919} normal block at 0x000002539CA1B920, 16 bytes long.
+ Data: < 5  S           > 00 35 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6918} normal block at 0x000002539CA1B330, 16 bytes long.
+ Data: < 4  S           > D8 34 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6915} normal block at 0x000002539CA434B0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6914} normal block at 0x000002539CA1F410, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6904} normal block at 0x000002539CA46390, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6900} normal block at 0x000002539CA1BD80, 16 bytes long.
+ Data: < =  S           > E8 3D A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6899} normal block at 0x000002539CA1BC90, 16 bytes long.
+ Data: < =  S           > C0 3D A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6898} normal block at 0x000002539CA1BAB0, 16 bytes long.
+ Data: < =  S           > 98 3D A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6895} normal block at 0x000002539CA43D70, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6894} normal block at 0x000002539CA21C10, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6884} normal block at 0x000002539CA45CD0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6880} normal block at 0x000002539CA1BB50, 16 bytes long.
+ Data: <hH  S           > 68 48 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6879} normal block at 0x000002539CA1B600, 16 bytes long.
+ Data: <@H  S           > 40 48 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6878} normal block at 0x000002539CA1C190, 16 bytes long.
+ Data: < H  S           > 18 48 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6875} normal block at 0x000002539CA447F0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6874} normal block at 0x000002539CA20C10, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6864} normal block at 0x000002539CA45B50, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6860} normal block at 0x000002539CA1B8D0, 16 bytes long.
+ Data: < G  S           > 88 47 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6859} normal block at 0x000002539CA1BEC0, 16 bytes long.
+ Data: <`G  S           > 60 47 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6858} normal block at 0x000002539CA1B5B0, 16 bytes long.
+ Data: <8G  S           > 38 47 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6855} normal block at 0x000002539CA44710, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6854} normal block at 0x000002539CA21810, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6844} normal block at 0x000002539CA45490, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6840} normal block at 0x000002539CA1C370, 16 bytes long.
+ Data: < 6  S           > E8 36 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6839} normal block at 0x000002539CA1B420, 16 bytes long.
+ Data: < 6  S           > C0 36 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6838} normal block at 0x000002539CA1B7E0, 16 bytes long.
+ Data: < 6  S           > 98 36 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6835} normal block at 0x000002539CA43670, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6834} normal block at 0x000002539CA20A10, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6824} normal block at 0x000002539CA451F0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6820} normal block at 0x000002539CA1C320, 16 bytes long.
+ Data: <hA  S           > 68 41 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6819} normal block at 0x000002539CA1BA60, 16 bytes long.
+ Data: <@A  S           > 40 41 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6818} normal block at 0x000002539CA1C0F0, 16 bytes long.
+ Data: < A  S           > 18 41 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6815} normal block at 0x000002539CA440F0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6814} normal block at 0x000002539CA20210, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6804} normal block at 0x000002539CA463F0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6800} normal block at 0x000002539CA1B4C0, 16 bytes long.
+ Data: <(<  S           > 28 3C A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6799} normal block at 0x000002539CA1C0A0, 16 bytes long.
+ Data: < <  S           > 00 3C A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6798} normal block at 0x000002539CA1B560, 16 bytes long.
+ Data: < ;  S           > D8 3B A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6795} normal block at 0x000002539CA43BB0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6794} normal block at 0x000002539CA20610, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6784} normal block at 0x000002539CA45F10, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6780} normal block at 0x000002539CA1BD30, 16 bytes long.
+ Data: < >  S           > C8 3E A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6779} normal block at 0x000002539CA1B510, 16 bytes long.
+ Data: < >  S           > A0 3E A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6778} normal block at 0x000002539CA1BCE0, 16 bytes long.
+ Data: <x>  S           > 78 3E A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6775} normal block at 0x000002539CA43E50, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6774} normal block at 0x000002539CA21610, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6764} normal block at 0x000002539CA45A90, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6760} normal block at 0x000002539CA1BC40, 16 bytes long.
+ Data: <h3  S           > 68 33 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6759} normal block at 0x000002539CA1BBA0, 16 bytes long.
+ Data: <@3  S           > 40 33 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6758} normal block at 0x000002539CA1BBF0, 16 bytes long.
+ Data: < 3  S           > 18 33 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6755} normal block at 0x000002539CA432F0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6754} normal block at 0x000002539CA22810, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6744} normal block at 0x000002539C945B90, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6740} normal block at 0x000002539CA1B740, 16 bytes long.
+ Data: < 2  S           > 88 32 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6739} normal block at 0x000002539CA1C2D0, 16 bytes long.
+ Data: <`2  S           > 60 32 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6738} normal block at 0x000002539CA1BA10, 16 bytes long.
+ Data: <82  S           > 38 32 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6735} normal block at 0x000002539CA43210, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6734} normal block at 0x000002539CA22610, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6724} normal block at 0x000002539CA3BBB0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6720} normal block at 0x000002539CA1B6A0, 16 bytes long.
+ Data: < =  S           > 08 3D A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6719} normal block at 0x000002539CA1C280, 16 bytes long.
+ Data: < <  S           > E0 3C A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6718} normal block at 0x000002539CA1B9C0, 16 bytes long.
+ Data: < <  S           > B8 3C A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6715} normal block at 0x000002539CA43C90, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6714} normal block at 0x000002539CA20810, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6704} normal block at 0x000002539CA3B6D0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6700} normal block at 0x000002539CA1BB00, 16 bytes long.
+ Data: < F  S           > A8 46 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6699} normal block at 0x000002539CA1B6F0, 16 bytes long.
+ Data: < F  S           > 80 46 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6698} normal block at 0x000002539CA1C050, 16 bytes long.
+ Data: <XF  S           > 58 46 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6695} normal block at 0x000002539CA44630, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6694} normal block at 0x000002539CA1F210, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6684} normal block at 0x000002539CA3BA30, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6680} normal block at 0x000002539CA1EC10, 16 bytes long.
+ Data: <(J  S           > 28 4A A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6679} normal block at 0x000002539CA1EF30, 16 bytes long.
+ Data: < J  S           > 00 4A A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6678} normal block at 0x000002539CA1EC60, 16 bytes long.
+ Data: < I  S           > D8 49 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6675} normal block at 0x000002539CA449B0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6674} normal block at 0x000002539CA20E10, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6664} normal block at 0x000002539CA3B670, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6660} normal block at 0x000002539CA1EEE0, 16 bytes long.
+ Data: <    S           > C8 A9 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6659} normal block at 0x000002539CA1EE90, 16 bytes long.
+ Data: <    S           > A0 A9 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6658} normal block at 0x000002539CA1EE40, 16 bytes long.
+ Data: <x   S           > 78 A9 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6655} normal block at 0x000002539CA1A950, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6654} normal block at 0x000002539CA1F810, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6644} normal block at 0x000002539CA3B610, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6640} normal block at 0x000002539CA1EDF0, 16 bytes long.
+ Data: <    S           > 08 93 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6639} normal block at 0x000002539CA1EDA0, 16 bytes long.
+ Data: <    S           > E0 92 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6638} normal block at 0x000002539CA1ECB0, 16 bytes long.
+ Data: <    S           > B8 92 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6635} normal block at 0x000002539CA19290, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6634} normal block at 0x000002539CA21E10, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6624} normal block at 0x000002539CA3B550, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6620} normal block at 0x000002539CA1ED50, 16 bytes long.
+ Data: <(   S           > 28 A7 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6619} normal block at 0x000002539CA1ED00, 16 bytes long.
+ Data: <    S           > 00 A7 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6618} normal block at 0x000002539CA1D950, 16 bytes long.
+ Data: <    S           > D8 A6 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6615} normal block at 0x000002539CA1A6B0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6614} normal block at 0x000002539CA21A10, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6604} normal block at 0x000002539CA3CCF0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6600} normal block at 0x000002539CA1E260, 16 bytes long.
+ Data: <    S           > 08 A8 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6599} normal block at 0x000002539CA1D860, 16 bytes long.
+ Data: <    S           > E0 A7 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6598} normal block at 0x000002539CA1D810, 16 bytes long.
+ Data: <    S           > B8 A7 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6595} normal block at 0x000002539CA1A790, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6594} normal block at 0x000002539CA21410, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6584} normal block at 0x000002539CA3B970, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6580} normal block at 0x000002539CA1EA30, 16 bytes long.
+ Data: <    S           > 88 A4 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6579} normal block at 0x000002539CA1E9E0, 16 bytes long.
+ Data: <`   S           > 60 A4 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6578} normal block at 0x000002539CA1E850, 16 bytes long.
+ Data: <8   S           > 38 A4 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6575} normal block at 0x000002539CA1A410, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6574} normal block at 0x000002539CA20010, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6564} normal block at 0x000002539CA3CAB0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6560} normal block at 0x000002539CA1D900, 16 bytes long.
+ Data: <H   S           > 48 A6 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6559} normal block at 0x000002539CA1E7B0, 16 bytes long.
+ Data: <    S           > 20 A6 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6558} normal block at 0x000002539CA1E760, 16 bytes long.
+ Data: <    S           > F8 A5 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6555} normal block at 0x000002539CA1A5D0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6554} normal block at 0x000002539CA15FE0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6544} normal block at 0x000002539CA3B9D0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6540} normal block at 0x000002539CA1E710, 16 bytes long.
+ Data: <    S           > C8 A2 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6539} normal block at 0x000002539CA1E530, 16 bytes long.
+ Data: <    S           > A0 A2 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6538} normal block at 0x000002539CA1E6C0, 16 bytes long.
+ Data: <x   S           > 78 A2 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6535} normal block at 0x000002539CA1A250, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6534} normal block at 0x000002539CA15DE0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6524} normal block at 0x000002539CA3C9F0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6520} normal block at 0x000002539CA1E440, 16 bytes long.
+ Data: <    S           > E8 A1 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6519} normal block at 0x000002539CA1E080, 16 bytes long.
+ Data: <    S           > C0 A1 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6518} normal block at 0x000002539CA1DF90, 16 bytes long.
+ Data: <    S           > 98 A1 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6515} normal block at 0x000002539CA1A170, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6514} normal block at 0x000002539CA157E0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6504} normal block at 0x000002539CA3C990, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6500} normal block at 0x000002539CA1DE50, 16 bytes long.
+ Data: <    S           > E8 A8 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6499} normal block at 0x000002539CA1E1C0, 16 bytes long.
+ Data: <    S           > C0 A8 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6498} normal block at 0x000002539CA1EBC0, 16 bytes long.
+ Data: <    S           > 98 A8 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6495} normal block at 0x000002539CA1A870, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6494} normal block at 0x000002539CA15BE0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6484} normal block at 0x000002539CA3BB50, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6480} normal block at 0x000002539CA1EB70, 16 bytes long.
+ Data: <(   S           > 28 92 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6479} normal block at 0x000002539CA1E3F0, 16 bytes long.
+ Data: <    S           > 00 92 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6478} normal block at 0x000002539CA1E670, 16 bytes long.
+ Data: <    S           > D8 91 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6475} normal block at 0x000002539CA191B0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6474} normal block at 0x000002539CA18BE0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6464} normal block at 0x000002539CA3B910, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6460} normal block at 0x000002539CA1E0D0, 16 bytes long.
+ Data: <h   S           > 68 A5 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6459} normal block at 0x000002539CA1EA80, 16 bytes long.
+ Data: <@   S           > 40 A5 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6458} normal block at 0x000002539CA1DEF0, 16 bytes long.
+ Data: <    S           > 18 A5 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6455} normal block at 0x000002539CA1A4F0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6454} normal block at 0x000002539CA155E0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6444} normal block at 0x000002539CA3C930, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6440} normal block at 0x000002539CA1DF40, 16 bytes long.
+ Data: <H   S           > 48 9F A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6439} normal block at 0x000002539CA1E8A0, 16 bytes long.
+ Data: <    S           > 20 9F A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6438} normal block at 0x000002539CA1E170, 16 bytes long.
+ Data: <    S           > F8 9E A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6435} normal block at 0x000002539CA19ED0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6434} normal block at 0x000002539CA159E0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6424} normal block at 0x000002539CA3BAF0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6420} normal block at 0x000002539CA1E210, 16 bytes long.
+ Data: <(   S           > 28 AE A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6419} normal block at 0x000002539CA1DEA0, 16 bytes long.
+ Data: <    S           > 00 AE A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6418} normal block at 0x000002539CA1D9F0, 16 bytes long.
+ Data: <    S           > D8 AD A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6415} normal block at 0x000002539CA1ADB0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6414} normal block at 0x000002539CA187E0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6404} normal block at 0x000002539CA3C870, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6400} normal block at 0x000002539CA1DDB0, 16 bytes long.
+ Data: <h   S           > 68 9E A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6399} normal block at 0x000002539CA1DD60, 16 bytes long.
+ Data: <@   S           > 40 9E A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6398} normal block at 0x000002539CA1E120, 16 bytes long.
+ Data: <    S           > 18 9E A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6395} normal block at 0x000002539CA19DF0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6394} normal block at 0x000002539CA189E0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6384} normal block at 0x000002539CA3B850, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6380} normal block at 0x000002539CA1E030, 16 bytes long.
+ Data: <    S           > 08 AF A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6379} normal block at 0x000002539CA1DD10, 16 bytes long.
+ Data: <    S           > E0 AE A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6378} normal block at 0x000002539CA1EAD0, 16 bytes long.
+ Data: <    S           > B8 AE A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6375} normal block at 0x000002539CA1AE90, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6374} normal block at 0x000002539CA16DE0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6364} normal block at 0x000002539CA3B8B0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6360} normal block at 0x000002539CA1DFE0, 16 bytes long.
+ Data: <H   S           > 48 91 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6359} normal block at 0x000002539CA1E940, 16 bytes long.
+ Data: <    S           > 20 91 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6358} normal block at 0x000002539CA1E620, 16 bytes long.
+ Data: <    S           > F8 90 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6355} normal block at 0x000002539CA190D0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6354} normal block at 0x000002539CA167E0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6344} normal block at 0x000002539CA3B7F0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6340} normal block at 0x000002539CA1DC20, 16 bytes long.
+ Data: <    S           > C8 9B A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6339} normal block at 0x000002539CA1DE00, 16 bytes long.
+ Data: <    S           > A0 9B A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6338} normal block at 0x000002539CA1DB30, 16 bytes long.
+ Data: <x   S           > 78 9B A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6335} normal block at 0x000002539CA19B50, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6334} normal block at 0x000002539CA185E0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6324} normal block at 0x000002539CA3CB10, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6320} normal block at 0x000002539CA1DAE0, 16 bytes long.
+ Data: <    S           > A8 9C A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6319} normal block at 0x000002539CA1E3A0, 16 bytes long.
+ Data: <    S           > 80 9C A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6318} normal block at 0x000002539CA1E990, 16 bytes long.
+ Data: <X   S           > 58 9C A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6315} normal block at 0x000002539CA19C30, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6314} normal block at 0x000002539CA183E0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6304} normal block at 0x000002539CA3CC90, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6300} normal block at 0x000002539CA1E350, 16 bytes long.
+ Data: <    S           > E8 9A A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6299} normal block at 0x000002539CA1E490, 16 bytes long.
+ Data: <    S           > C0 9A A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6298} normal block at 0x000002539CA1DA40, 16 bytes long.
+ Data: <    S           > 98 9A A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6295} normal block at 0x000002539CA19A70, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6294} normal block at 0x000002539CA17BE0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6284} normal block at 0x000002539CA3C8D0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6280} normal block at 0x000002539CA1E5D0, 16 bytes long.
+ Data: <    S           > 08 A1 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6279} normal block at 0x000002539CA1DB80, 16 bytes long.
+ Data: <    S           > E0 A0 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6278} normal block at 0x000002539CA1DBD0, 16 bytes long.
+ Data: <    S           > B8 A0 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6275} normal block at 0x000002539CA1A090, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6274} normal block at 0x000002539CA169E0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6264} normal block at 0x000002539CA3C810, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6260} normal block at 0x000002539CA1E300, 16 bytes long.
+ Data: <h   S           > 68 AC A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6259} normal block at 0x000002539CA1D9A0, 16 bytes long.
+ Data: <@   S           > 40 AC A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6258} normal block at 0x000002539CA1E4E0, 16 bytes long.
+ Data: <    S           > 18 AC A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6255} normal block at 0x000002539CA1ABF0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6254} normal block at 0x000002539CA17DE0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6244} normal block at 0x000002539CA3C5D0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6240} normal block at 0x000002539CA1E2B0, 16 bytes long.
+ Data: <H   S           > 48 98 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6239} normal block at 0x000002539CA1E580, 16 bytes long.
+ Data: <    S           > 20 98 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6238} normal block at 0x000002539CA1D8B0, 16 bytes long.
+ Data: <    S           > F8 97 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6235} normal block at 0x000002539CA197D0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6234} normal block at 0x000002539CA181E0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6224} normal block at 0x000002539CA3C7B0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6220} normal block at 0x000002539CA1DCC0, 16 bytes long.
+ Data: <    S           > 88 9D A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6219} normal block at 0x000002539CA1DC70, 16 bytes long.
+ Data: <`   S           > 60 9D A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6218} normal block at 0x000002539CA1E8F0, 16 bytes long.
+ Data: <8   S           > 38 9D A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6215} normal block at 0x000002539CA19D10, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6214} normal block at 0x000002539CA179E0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6204} normal block at 0x000002539CA3B5B0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6200} normal block at 0x000002539CA1DA90, 16 bytes long.
+ Data: <h   S           > 68 97 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6199} normal block at 0x000002539CA0E9E0, 16 bytes long.
+ Data: <@   S           > 40 97 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6198} normal block at 0x000002539CA0E710, 16 bytes long.
+ Data: <    S           > 18 97 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6195} normal block at 0x000002539CA196F0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6194} normal block at 0x000002539CA177E0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6184} normal block at 0x000002539CA3C570, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6180} normal block at 0x000002539CA0D590, 16 bytes long.
+ Data: <    S           > 08 9A A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6179} normal block at 0x000002539CA0D360, 16 bytes long.
+ Data: <    S           > E0 99 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6178} normal block at 0x000002539CA0D4A0, 16 bytes long.
+ Data: <    S           > B8 99 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6175} normal block at 0x000002539CA19990, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6174} normal block at 0x000002539CA16FE0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6164} normal block at 0x000002539CA3BFD0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6160} normal block at 0x000002539CA0D310, 16 bytes long.
+ Data: <H   S           > 48 AD A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6159} normal block at 0x000002539CA0D220, 16 bytes long.
+ Data: <    S           > 20 AD A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6158} normal block at 0x000002539CA0D040, 16 bytes long.
+ Data: <    S           > F8 AC A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6155} normal block at 0x000002539CA1ACD0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6154} normal block at 0x000002539CA175E0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6144} normal block at 0x000002539CA3C750, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6140} normal block at 0x000002539CA0D400, 16 bytes long.
+ Data: <    S           > A8 A3 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6139} normal block at 0x000002539CA0CF50, 16 bytes long.
+ Data: <    S           > 80 A3 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6138} normal block at 0x000002539CA0CEB0, 16 bytes long.
+ Data: <X   S           > 58 A3 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6135} normal block at 0x000002539CA1A330, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6134} normal block at 0x000002539CA173E0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6124} normal block at 0x000002539CA3CC30, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6120} normal block at 0x000002539CA0CAF0, 16 bytes long.
+ Data: <(   S           > 28 A0 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6119} normal block at 0x000002539CA0CFF0, 16 bytes long.
+ Data: <    S           > 00 A0 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6118} normal block at 0x000002539CA0CAA0, 16 bytes long.
+ Data: <    S           > D8 9F A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6115} normal block at 0x000002539CA19FB0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6114} normal block at 0x000002539CA153E0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6104} normal block at 0x000002539CA3C4B0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6100} normal block at 0x000002539CA0C910, 16 bytes long.
+ Data: <    S           > 88 AB A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6099} normal block at 0x000002539CA0D270, 16 bytes long.
+ Data: <`   S           > 60 AB A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6098} normal block at 0x000002539CA0C8C0, 16 bytes long.
+ Data: <8   S           > 38 AB A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6095} normal block at 0x000002539CA1AB10, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6094} normal block at 0x000002539CA151E0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6084} normal block at 0x000002539CA3B790, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6080} normal block at 0x000002539CA0CF00, 16 bytes long.
+ Data: <(   S           > 28 99 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6079} normal block at 0x000002539CA0D6D0, 16 bytes long.
+ Data: <    S           > 00 99 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6078} normal block at 0x000002539CA0C500, 16 bytes long.
+ Data: <    S           > D8 98 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6075} normal block at 0x000002539CA198B0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6074} normal block at 0x000002539CA14FE0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6064} normal block at 0x000002539CA3CA50, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6060} normal block at 0x000002539CA0CE60, 16 bytes long.
+ Data: <    S           > A8 AA A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6059} normal block at 0x000002539CA0C460, 16 bytes long.
+ Data: <    S           > 80 AA A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6058} normal block at 0x000002539CA0C870, 16 bytes long.
+ Data: <X   S           > 58 AA A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6055} normal block at 0x000002539CA1AA30, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6054} normal block at 0x000002539CA17FE0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6044} normal block at 0x000002539CA3C630, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6040} normal block at 0x000002539CA0D3B0, 16 bytes long.
+ Data: <    S           > 88 96 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6039} normal block at 0x000002539CA0D720, 16 bytes long.
+ Data: <`   S           > 60 96 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6038} normal block at 0x000002539CA0D680, 16 bytes long.
+ Data: <8   S           > 38 96 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6035} normal block at 0x000002539CA19610, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6034} normal block at 0x000002539CA165E0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6024} normal block at 0x000002539CA3BF10, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6020} normal block at 0x000002539CA0D0E0, 16 bytes long.
+ Data: <    S           > E8 93 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6019} normal block at 0x000002539CA0C9B0, 16 bytes long.
+ Data: <    S           > C0 93 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6018} normal block at 0x000002539CA0D770, 16 bytes long.
+ Data: <    S           > 98 93 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{6015} normal block at 0x000002539CA19370, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {6014} normal block at 0x000002539CA171E0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{6004} normal block at 0x000002539CA3C090, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{6000} normal block at 0x000002539CA0C7D0, 16 bytes long.
+ Data: <h   S           > 68 90 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5999} normal block at 0x000002539CA0D130, 16 bytes long.
+ Data: <@   S           > 40 90 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5998} normal block at 0x000002539CA0C780, 16 bytes long.
+ Data: <    S           > 18 90 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5995} normal block at 0x000002539CA18FF0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5994} normal block at 0x000002539CA161E0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5984} normal block at 0x000002539CA3B730, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5980} normal block at 0x000002539CA0D180, 16 bytes long.
+ Data: <    S           > A8 95 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5979} normal block at 0x000002539CA0D4F0, 16 bytes long.
+ Data: <    S           > 80 95 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5978} normal block at 0x000002539CA0CB40, 16 bytes long.
+ Data: <X   S           > 58 95 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5975} normal block at 0x000002539CA19530, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5974} normal block at 0x000002539CA16BE0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5964} normal block at 0x000002539CA3C030, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5960} normal block at 0x000002539CA0CDC0, 16 bytes long.
+ Data: <    S           > C8 94 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5959} normal block at 0x000002539CA0CD70, 16 bytes long.
+ Data: <    S           > A0 94 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5958} normal block at 0x000002539CA0C730, 16 bytes long.
+ Data: <x   S           > 78 94 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5955} normal block at 0x000002539CA19450, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5954} normal block at 0x000002539CA163E0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5944} normal block at 0x000002539CA3C450, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5940} normal block at 0x000002539CA0CB90, 16 bytes long.
+ Data: <8   S           > 38 F7 A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5939} normal block at 0x000002539CA0CC80, 16 bytes long.
+ Data: <    S           > 10 F7 A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5938} normal block at 0x000002539CA0C6E0, 16 bytes long.
+ Data: <    S           > E8 F6 A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5935} normal block at 0x000002539CA0F6C0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5934} normal block at 0x000002539CA11FD0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5924} normal block at 0x000002539CA3C270, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5920} normal block at 0x000002539CA0C3C0, 16 bytes long.
+ Data: <X   S           > 58 F6 A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5919} normal block at 0x000002539CA0CA50, 16 bytes long.
+ Data: <0   S           > 30 F6 A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5918} normal block at 0x000002539CA0CE10, 16 bytes long.
+ Data: <    S           > 08 F6 A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5915} normal block at 0x000002539CA0F5E0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5914} normal block at 0x000002539CA115D0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5904} normal block at 0x000002539CA3BEB0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5900} normal block at 0x000002539CA0CA00, 16 bytes long.
+ Data: <x   S           > 78 F5 A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5899} normal block at 0x000002539CA0D2C0, 16 bytes long.
+ Data: <P   S           > 50 F5 A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5898} normal block at 0x000002539CA0C960, 16 bytes long.
+ Data: <(   S           > 28 F5 A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5895} normal block at 0x000002539CA0F500, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5894} normal block at 0x000002539CA113D0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5884} normal block at 0x000002539CA3BE50, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5880} normal block at 0x000002539CA0D090, 16 bytes long.
+ Data: <8   S           > 38 F0 A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5879} normal block at 0x000002539CA0C820, 16 bytes long.
+ Data: <    S           > 10 F0 A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5878} normal block at 0x000002539CA0CD20, 16 bytes long.
+ Data: <    S           > E8 EF A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5875} normal block at 0x000002539CA0EFC0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5874} normal block at 0x000002539CA111D0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5864} normal block at 0x000002539CA3C390, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5860} normal block at 0x000002539CA0C550, 16 bytes long.
+ Data: <8   S           > 38 0C A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5859} normal block at 0x000002539CA0D540, 16 bytes long.
+ Data: <    S           > 10 0C A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5858} normal block at 0x000002539CA0C640, 16 bytes long.
+ Data: <    S           > E8 0B A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5855} normal block at 0x000002539CA10BC0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5854} normal block at 0x000002539CA145D0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5844} normal block at 0x000002539CA3CBD0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5840} normal block at 0x000002539CA0CC30, 16 bytes long.
+ Data: <8   S           > 38 05 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5839} normal block at 0x000002539CA0CBE0, 16 bytes long.
+ Data: <    S           > 10 05 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5838} normal block at 0x000002539CA0C690, 16 bytes long.
+ Data: <    S           > E8 04 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5835} normal block at 0x000002539CA104C0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5834} normal block at 0x000002539CA139D0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5824} normal block at 0x000002539CA3BD90, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5820} normal block at 0x000002539CA0D1D0, 16 bytes long.
+ Data: <X   S           > 58 04 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5819} normal block at 0x000002539CA0C4B0, 16 bytes long.
+ Data: <0   S           > 30 04 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5818} normal block at 0x000002539CA0C5F0, 16 bytes long.
+ Data: <    S           > 08 04 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5815} normal block at 0x000002539CA103E0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5814} normal block at 0x000002539CA11BD0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5804} normal block at 0x000002539CA3C3F0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5800} normal block at 0x000002539CA0C5A0, 16 bytes long.
+ Data: <    S           > B8 F3 A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5799} normal block at 0x000002539CA0D450, 16 bytes long.
+ Data: <    S           > 90 F3 A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5798} normal block at 0x000002539CA0D5E0, 16 bytes long.
+ Data: <h   S           > 68 F3 A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5795} normal block at 0x000002539CA0F340, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5794} normal block at 0x000002539CA119D0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5784} normal block at 0x000002539CA3C690, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5780} normal block at 0x000002539CA0C410, 16 bytes long.
+ Data: <x   S           > 78 03 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5779} normal block at 0x000002539CA0CCD0, 16 bytes long.
+ Data: <P   S           > 50 03 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5778} normal block at 0x000002539CA0D630, 16 bytes long.
+ Data: <(   S           > 28 03 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5775} normal block at 0x000002539CA10300, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5774} normal block at 0x000002539CA143D0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5764} normal block at 0x000002539CA3C1B0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5760} normal block at 0x000002539CA0CFA0, 16 bytes long.
+ Data: <X   S           > 58 0B A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5759} normal block at 0x000002539CA0B3D0, 16 bytes long.
+ Data: <0   S           > 30 0B A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5758} normal block at 0x000002539CA0C320, 16 bytes long.
+ Data: <    S           > 08 0B A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5755} normal block at 0x000002539CA10AE0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5754} normal block at 0x000002539CA13DD0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5744} normal block at 0x000002539CA3BDF0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5740} normal block at 0x000002539CA0C280, 16 bytes long.
+ Data: <    S           > 98 02 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5739} normal block at 0x000002539CA0C1E0, 16 bytes long.
+ Data: <p   S           > 70 02 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5738} normal block at 0x000002539CA0C190, 16 bytes long.
+ Data: <H   S           > 48 02 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5735} normal block at 0x000002539CA10220, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5734} normal block at 0x000002539CA137D0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5724} normal block at 0x000002539CA3BA90, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5720} normal block at 0x000002539CBCB8A0, 1688 bytes long.
+ Data: < vQ S    .  S   > B0 76 51 95 53 02 00 00 80 2E 97 9C 53 02 00 00 
+{5719} normal block at 0x000002539CA0BCE0, 16 bytes long.
+ Data: <    S           > B8 01 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5718} normal block at 0x000002539CA0C230, 16 bytes long.
+ Data: <    S           > 90 01 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5717} normal block at 0x000002539CA0BD80, 16 bytes long.
+ Data: <h   S           > 68 01 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5714} normal block at 0x000002539CA10140, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5713} normal block at 0x000002539CA135D0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5703} normal block at 0x000002539CA3BD30, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5699} normal block at 0x000002539CA0BC40, 16 bytes long.
+ Data: <    S           > F8 F1 A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5698} normal block at 0x000002539CA0C0F0, 16 bytes long.
+ Data: <    S           > D0 F1 A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5697} normal block at 0x000002539CA0C0A0, 16 bytes long.
+ Data: <    S           > A8 F1 A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5694} normal block at 0x000002539CA0F180, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5693} normal block at 0x000002539CA117D0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5683} normal block at 0x000002539CA3C2D0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5679} normal block at 0x000002539CA0BBF0, 16 bytes long.
+ Data: <x   S           > 78 0A A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5678} normal block at 0x000002539CA0BBA0, 16 bytes long.
+ Data: <P   S           > 50 0A A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5677} normal block at 0x000002539CA0B380, 16 bytes long.
+ Data: <(   S           > 28 0A A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5674} normal block at 0x000002539CA10A00, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5673} normal block at 0x000002539CA14BD0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5663} normal block at 0x000002539CA3C210, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5659} normal block at 0x000002539CA0BE70, 16 bytes long.
+ Data: <    S           > 18 FF A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5658} normal block at 0x000002539CA0C050, 16 bytes long.
+ Data: <    S           > F0 FE A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5657} normal block at 0x000002539CA0C000, 16 bytes long.
+ Data: <    S           > C8 FE A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5654} normal block at 0x000002539CA0FEA0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5653} normal block at 0x000002539CA149D0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5643} normal block at 0x000002539CA3BF70, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5639} normal block at 0x000002539CA0BB00, 16 bytes long.
+ Data: <    S           > 98 FB A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5638} normal block at 0x000002539CA0C2D0, 16 bytes long.
+ Data: <p   S           > 70 FB A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5637} normal block at 0x000002539CA0BAB0, 16 bytes long.
+ Data: <H   S           > 48 FB A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5634} normal block at 0x000002539CA0FB20, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5633} normal block at 0x000002539CA131D0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5623} normal block at 0x000002539CA3BCD0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5619} normal block at 0x000002539CA0BA60, 16 bytes long.
+ Data: <    S           > B8 08 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5618} normal block at 0x000002539CA0B9C0, 16 bytes long.
+ Data: <    S           > 90 08 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5617} normal block at 0x000002539CA0B6F0, 16 bytes long.
+ Data: <h   S           > 68 08 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5614} normal block at 0x000002539CA10840, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5613} normal block at 0x000002539CA12DD0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5603} normal block at 0x000002539CA3C510, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5599} normal block at 0x000002539CA0B4C0, 16 bytes long.
+ Data: <    S           > 18 0D A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5598} normal block at 0x000002539CA0B510, 16 bytes long.
+ Data: <    S           > F0 0C A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5597} normal block at 0x000002539CA0BF60, 16 bytes long.
+ Data: <    S           > C8 0C A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5594} normal block at 0x000002539CA10CA0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5593} normal block at 0x000002539CA13BD0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5583} normal block at 0x000002539CA3C6F0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5579} normal block at 0x000002539CA0B6A0, 16 bytes long.
+ Data: <    S           > D8 07 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5578} normal block at 0x000002539CA0B740, 16 bytes long.
+ Data: <    S           > B0 07 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5577} normal block at 0x000002539CA0BD30, 16 bytes long.
+ Data: <    S           > 88 07 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5574} normal block at 0x000002539CA10760, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5573} normal block at 0x000002539CA13FD0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5563} normal block at 0x000002539CA3C150, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5559} normal block at 0x000002539CA0B790, 16 bytes long.
+ Data: <x   S           > 78 FC A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5558} normal block at 0x000002539CA0B970, 16 bytes long.
+ Data: <P   S           > 50 FC A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5557} normal block at 0x000002539CA0B330, 16 bytes long.
+ Data: <(   S           > 28 FC A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5554} normal block at 0x000002539CA0FC00, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5553} normal block at 0x000002539CA10FD0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5543} normal block at 0x000002539CA3C0F0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5539} normal block at 0x000002539CA0B100, 16 bytes long.
+ Data: <    S           > F8 06 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5538} normal block at 0x000002539CA0B650, 16 bytes long.
+ Data: <    S           > D0 06 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5537} normal block at 0x000002539CA0BA10, 16 bytes long.
+ Data: <    S           > A8 06 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5534} normal block at 0x000002539CA10680, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5533} normal block at 0x000002539CA123D0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5523} normal block at 0x000002539CA3BC70, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5519} normal block at 0x000002539CA0B600, 16 bytes long.
+ Data: <    S           > 18 F8 A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5518} normal block at 0x000002539CA0BF10, 16 bytes long.
+ Data: <    S           > F0 F7 A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5517} normal block at 0x000002539CA0B560, 16 bytes long.
+ Data: <    S           > C8 F7 A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5514} normal block at 0x000002539CA0F7A0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5513} normal block at 0x000002539CA12BD0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5503} normal block at 0x000002539CA3BC10, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5499} normal block at 0x000002539CA0BC90, 16 bytes long.
+ Data: <    S           > D8 0E A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5498} normal block at 0x000002539CA0B470, 16 bytes long.
+ Data: <    S           > B0 0E A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5497} normal block at 0x000002539CA0B920, 16 bytes long.
+ Data: <    S           > 88 0E A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5494} normal block at 0x000002539CA10E60, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5493} normal block at 0x000002539CA133D0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5483} normal block at 0x000002539CA3C330, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5479} normal block at 0x000002539CA0B2E0, 16 bytes long.
+ Data: <    S           > 18 06 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5478} normal block at 0x000002539CA0C140, 16 bytes long.
+ Data: <    S           > F0 05 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5477} normal block at 0x000002539CA0B240, 16 bytes long.
+ Data: <    S           > C8 05 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5474} normal block at 0x000002539CA105A0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5473} normal block at 0x000002539CA129D0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5463} normal block at 0x000002539CA3CB70, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5459} normal block at 0x000002539CA0B8D0, 16 bytes long.
+ Data: <    S           > B8 FA A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5458} normal block at 0x000002539CA0B830, 16 bytes long.
+ Data: <    S           > 90 FA A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5457} normal block at 0x000002539CA0B290, 16 bytes long.
+ Data: <h   S           > 68 FA A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5454} normal block at 0x000002539CA0FA40, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5453} normal block at 0x000002539CA127D0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5443} normal block at 0x000002539CA3F0F0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5439} normal block at 0x000002539CA0BE20, 16 bytes long.
+ Data: <    S           > F8 0D A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5438} normal block at 0x000002539CA0B0B0, 16 bytes long.
+ Data: <    S           > D0 0D A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5437} normal block at 0x000002539CA0B1F0, 16 bytes long.
+ Data: <    S           > A8 0D A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5434} normal block at 0x000002539CA10D80, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5433} normal block at 0x000002539CA12FD0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5423} normal block at 0x000002539CA3F330, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5419} normal block at 0x000002539CA0C370, 16 bytes long.
+ Data: <X   S           > 58 FD A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5418} normal block at 0x000002539CA0B150, 16 bytes long.
+ Data: <0   S           > 30 FD A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5417} normal block at 0x000002539CA0B7E0, 16 bytes long.
+ Data: <    S           > 08 FD A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5414} normal block at 0x000002539CA0FCE0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5413} normal block at 0x000002539CA147D0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5403} normal block at 0x000002539CA3F2D0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5399} normal block at 0x000002539CA0B060, 16 bytes long.
+ Data: <    S           > D8 F9 A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5398} normal block at 0x000002539CA0B880, 16 bytes long.
+ Data: <    S           > B0 F9 A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5397} normal block at 0x000002539CA0BDD0, 16 bytes long.
+ Data: <    S           > 88 F9 A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5394} normal block at 0x000002539CA0F960, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5393} normal block at 0x000002539CA141D0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5383} normal block at 0x000002539CA3E850, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5379} normal block at 0x000002539CA0AFC0, 16 bytes long.
+ Data: <    S           > D8 00 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5378} normal block at 0x000002539CA0B420, 16 bytes long.
+ Data: <    S           > B0 00 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5377} normal block at 0x000002539CA0B1A0, 16 bytes long.
+ Data: <    S           > 88 00 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5374} normal block at 0x000002539CA10060, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5373} normal block at 0x000002539CA121D0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5363} normal block at 0x000002539CA3EB50, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5359} normal block at 0x000002539CA0BFB0, 16 bytes long.
+ Data: <    S           > 98 F4 A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5358} normal block at 0x000002539CA0BB50, 16 bytes long.
+ Data: <p   S           > 70 F4 A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5357} normal block at 0x000002539CA0B010, 16 bytes long.
+ Data: <H   S           > 48 F4 A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5354} normal block at 0x000002539CA0F420, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5353} normal block at 0x000002539CA11DD0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5343} normal block at 0x000002539CA3EAF0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5339} normal block at 0x000002539CA0B5B0, 16 bytes long.
+ Data: <    S           > D8 F2 A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5338} normal block at 0x000002539CA0BEC0, 16 bytes long.
+ Data: <    S           > B0 F2 A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5337} normal block at 0x000002539CA0ECB0, 16 bytes long.
+ Data: <    S           > 88 F2 A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5334} normal block at 0x000002539CA0F260, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5333} normal block at 0x000002539CA125D0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5323} normal block at 0x000002539CA3EF70, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5319} normal block at 0x000002539CA0EC60, 16 bytes long.
+ Data: <    S           > F8 FF A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5318} normal block at 0x000002539CA0EC10, 16 bytes long.
+ Data: <    S           > D0 FF A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5317} normal block at 0x000002539CA0ED50, 16 bytes long.
+ Data: <    S           > A8 FF A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5314} normal block at 0x000002539CA0FF80, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5313} normal block at 0x000002539CA06FA0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5303} normal block at 0x000002539CA3EDF0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5299} normal block at 0x000002539CA0EBC0, 16 bytes long.
+ Data: <8   S           > 38 FE A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5298} normal block at 0x000002539CA0EEE0, 16 bytes long.
+ Data: <    S           > 10 FE A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5297} normal block at 0x000002539CA0EE90, 16 bytes long.
+ Data: <    S           > E8 FD A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5294} normal block at 0x000002539CA0FDC0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5293} normal block at 0x000002539CA071A0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5283} normal block at 0x000002539CA3ED90, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5279} normal block at 0x000002539CA0ED00, 16 bytes long.
+ Data: <    S           > 18 F1 A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5278} normal block at 0x000002539CA0EDF0, 16 bytes long.
+ Data: <    S           > F0 F0 A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5277} normal block at 0x000002539CA0EE40, 16 bytes long.
+ Data: <    S           > C8 F0 A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5274} normal block at 0x000002539CA0F0A0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5273} normal block at 0x000002539CA0ABA0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5263} normal block at 0x000002539CA3EF10, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5259} normal block at 0x000002539CA0EDA0, 16 bytes long.
+ Data: <    S           > F8 F8 A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5258} normal block at 0x000002539CA0D900, 16 bytes long.
+ Data: <    S           > D0 F8 A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5257} normal block at 0x000002539CA0D8B0, 16 bytes long.
+ Data: <    S           > A8 F8 A0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5254} normal block at 0x000002539CA0F880, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5253} normal block at 0x000002539CA077A0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5243} normal block at 0x000002539CA3E790, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5239} normal block at 0x000002539CA0E850, 16 bytes long.
+ Data: <    S           > 98 09 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5238} normal block at 0x000002539CA0E7B0, 16 bytes long.
+ Data: <p   S           > 70 09 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5237} normal block at 0x000002539CA0E760, 16 bytes long.
+ Data: <H   S           > 48 09 A1 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5234} normal block at 0x000002539CA10920, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5233} normal block at 0x000002539CA079A0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5223} normal block at 0x000002539CA3EC10, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5219} normal block at 0x000002539CA0E3A0, 16 bytes long.
+ Data: < ~  S           > A8 7E B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5218} normal block at 0x000002539CA0D860, 16 bytes long.
+ Data: < ~  S           > 80 7E B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5217} normal block at 0x000002539CA0E300, 16 bytes long.
+ Data: <X~  S           > 58 7E B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5214} normal block at 0x000002539CB07E30, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5213} normal block at 0x000002539CA097A0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5203} normal block at 0x000002539CA3EEB0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5199} normal block at 0x000002539CA0E350, 16 bytes long.
+ Data: < |  S           > 08 7C B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5198} normal block at 0x000002539CA0E8A0, 16 bytes long.
+ Data: < {  S           > E0 7B B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5197} normal block at 0x000002539CA0E620, 16 bytes long.
+ Data: < {  S           > B8 7B B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5194} normal block at 0x000002539CB07B90, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5193} normal block at 0x000002539CA0A1A0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5183} normal block at 0x000002539CA3E9D0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5179} normal block at 0x000002539CA0E1C0, 16 bytes long.
+ Data: < p  S           > A8 70 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5178} normal block at 0x000002539CA0DB80, 16 bytes long.
+ Data: < p  S           > 80 70 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5177} normal block at 0x000002539CA0EAD0, 16 bytes long.
+ Data: <Xp  S           > 58 70 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5174} normal block at 0x000002539CB07030, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5173} normal block at 0x000002539CA09FA0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5163} normal block at 0x000002539CA3E970, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5159} normal block at 0x000002539CA0E260, 16 bytes long.
+ Data: < o  S           > C8 6F B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5158} normal block at 0x000002539CA0E8F0, 16 bytes long.
+ Data: < o  S           > A0 6F B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5157} normal block at 0x000002539CA0E6C0, 16 bytes long.
+ Data: <xo  S           > 78 6F B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5154} normal block at 0x000002539CB06F50, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5153} normal block at 0x000002539CA091A0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5143} normal block at 0x000002539CA3E910, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5139} normal block at 0x000002539CA0DD10, 16 bytes long.
+ Data: < n  S           > E8 6E B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5138} normal block at 0x000002539CA0DF40, 16 bytes long.
+ Data: < n  S           > C0 6E B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5137} normal block at 0x000002539CA0DC20, 16 bytes long.
+ Data: < n  S           > 98 6E B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5134} normal block at 0x000002539CB06E70, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5133} normal block at 0x000002539CA099A0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5123} normal block at 0x000002539CA3E7F0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5119} normal block at 0x000002539CA0EB70, 16 bytes long.
+ Data: <hy  S           > 68 79 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5118} normal block at 0x000002539CA0DBD0, 16 bytes long.
+ Data: <@y  S           > 40 79 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5117} normal block at 0x000002539CA0DF90, 16 bytes long.
+ Data: < y  S           > 18 79 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5114} normal block at 0x000002539CB078F0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5113} normal block at 0x000002539CA08FA0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5103} normal block at 0x000002539CA3EBB0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5099} normal block at 0x000002539CA0E990, 16 bytes long.
+ Data: <h   S           > 68 87 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5098} normal block at 0x000002539CA0E210, 16 bytes long.
+ Data: <@   S           > 40 87 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5097} normal block at 0x000002539CA0DD60, 16 bytes long.
+ Data: <    S           > 18 87 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5094} normal block at 0x000002539CB086F0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5093} normal block at 0x000002539CA08BA0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5083} normal block at 0x000002539CA3E6D0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5079} normal block at 0x000002539CA0DC70, 16 bytes long.
+ Data: <Hz  S           > 48 7A B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5078} normal block at 0x000002539CA0E800, 16 bytes long.
+ Data: < z  S           > 20 7A B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5077} normal block at 0x000002539CA0DDB0, 16 bytes long.
+ Data: < y  S           > F8 79 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5074} normal block at 0x000002539CB079D0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5073} normal block at 0x000002539CA08DA0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5063} normal block at 0x000002539CA3F030, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5059} normal block at 0x000002539CA0E5D0, 16 bytes long.
+ Data: < |  S           > E8 7C B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5058} normal block at 0x000002539CA0DCC0, 16 bytes long.
+ Data: < |  S           > C0 7C B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5057} normal block at 0x000002539CA0E530, 16 bytes long.
+ Data: < |  S           > 98 7C B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5054} normal block at 0x000002539CB07C70, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5053} normal block at 0x000002539CA093A0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5043} normal block at 0x000002539CA3E610, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5039} normal block at 0x000002539CA0DEF0, 16 bytes long.
+ Data: < }  S           > C8 7D B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5038} normal block at 0x000002539CA0D810, 16 bytes long.
+ Data: < }  S           > A0 7D B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5037} normal block at 0x000002539CA0E440, 16 bytes long.
+ Data: <x}  S           > 78 7D B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5034} normal block at 0x000002539CB07D50, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5033} normal block at 0x000002539CA087A0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5023} normal block at 0x000002539CA3F270, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{5019} normal block at 0x000002539CA0E3F0, 16 bytes long.
+ Data: < n  S           > 08 6E B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5018} normal block at 0x000002539CA0DA90, 16 bytes long.
+ Data: < m  S           > E0 6D B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5017} normal block at 0x000002539CA0DEA0, 16 bytes long.
+ Data: < m  S           > B8 6D B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{5014} normal block at 0x000002539CB06D90, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {5013} normal block at 0x000002539CA073A0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{5003} normal block at 0x000002539CA3EFD0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4999} normal block at 0x000002539CA0E670, 16 bytes long.
+ Data: <(m  S           > 28 6D B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4998} normal block at 0x000002539CA0D9A0, 16 bytes long.
+ Data: < m  S           > 00 6D B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4997} normal block at 0x000002539CA0E2B0, 16 bytes long.
+ Data: < l  S           > D8 6C B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4994} normal block at 0x000002539CB06CB0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4993} normal block at 0x000002539CA089A0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4983} normal block at 0x000002539CA3E730, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4979} normal block at 0x000002539CA0EA80, 16 bytes long.
+ Data: < j  S           > 88 6A B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4978} normal block at 0x000002539CA0D7C0, 16 bytes long.
+ Data: <`j  S           > 60 6A B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4977} normal block at 0x000002539CA0DE50, 16 bytes long.
+ Data: <8j  S           > 38 6A B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4974} normal block at 0x000002539CB06A10, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4973} normal block at 0x000002539CA083A0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4963} normal block at 0x000002539CA3F090, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4959} normal block at 0x000002539CA0EB20, 16 bytes long.
+ Data: <    S           > E8 83 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4958} normal block at 0x000002539CA0DB30, 16 bytes long.
+ Data: <    S           > C0 83 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4957} normal block at 0x000002539CA0E170, 16 bytes long.
+ Data: <    S           > 98 83 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4954} normal block at 0x000002539CB08370, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4953} normal block at 0x000002539CA095A0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4943} normal block at 0x000002539CA3E5B0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4939} normal block at 0x000002539CA0DE00, 16 bytes long.
+ Data: < u  S           > 08 75 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4938} normal block at 0x000002539CA0DAE0, 16 bytes long.
+ Data: < t  S           > E0 74 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4937} normal block at 0x000002539CA0E120, 16 bytes long.
+ Data: < t  S           > B8 74 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4934} normal block at 0x000002539CB07490, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4933} normal block at 0x000002539CA09DA0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4923} normal block at 0x000002539CA3ED30, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4919} normal block at 0x000002539CA0EA30, 16 bytes long.
+ Data: <(t  S           > 28 74 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4918} normal block at 0x000002539CA0E0D0, 16 bytes long.
+ Data: < t  S           > 00 74 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4917} normal block at 0x000002539CA0E4E0, 16 bytes long.
+ Data: < s  S           > D8 73 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4914} normal block at 0x000002539CB073B0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4913} normal block at 0x000002539CA07DA0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4903} normal block at 0x000002539CA3EE50, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4899} normal block at 0x000002539CA0E490, 16 bytes long.
+ Data: <    S           > 08 83 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4898} normal block at 0x000002539CA0E580, 16 bytes long.
+ Data: <    S           > E0 82 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4897} normal block at 0x000002539CA0E080, 16 bytes long.
+ Data: <    S           > B8 82 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4894} normal block at 0x000002539CB08290, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4893} normal block at 0x000002539CA0A9A0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4883} normal block at 0x000002539CA3ECD0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4879} normal block at 0x000002539CA0DA40, 16 bytes long.
+ Data: <({  S           > 28 7B B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4878} normal block at 0x000002539CA0D9F0, 16 bytes long.
+ Data: < {  S           > 00 7B B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4877} normal block at 0x000002539CA0E940, 16 bytes long.
+ Data: < z  S           > D8 7A B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4874} normal block at 0x000002539CB07AB0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4873} normal block at 0x000002539CA09BA0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4863} normal block at 0x000002539CA3EA90, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4859} normal block at 0x000002539CA0D950, 16 bytes long.
+ Data: < x  S           > 88 78 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4858} normal block at 0x000002539CA0E030, 16 bytes long.
+ Data: <`x  S           > 60 78 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4857} normal block at 0x000002539CA0DFE0, 16 bytes long.
+ Data: <8x  S           > 38 78 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4854} normal block at 0x000002539CB07810, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4853} normal block at 0x000002539CA0A3A0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4843} normal block at 0x000002539CA3E670, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4839} normal block at 0x0000025399F69260, 16 bytes long.
+ Data: <    S           > 88 7F B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4838} normal block at 0x0000025399F1ED60, 16 bytes long.
+ Data: <`   S           > 60 7F B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4837} normal block at 0x000002539CB02580, 16 bytes long.
+ Data: <8   S           > 38 7F B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4834} normal block at 0x000002539CB07F10, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4833} normal block at 0x000002539CA075A0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4823} normal block at 0x000002539CA3F210, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4819} normal block at 0x000002539CB024E0, 16 bytes long.
+ Data: <    S           > C8 84 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4818} normal block at 0x000002539CB02530, 16 bytes long.
+ Data: <    S           > A0 84 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4817} normal block at 0x000002539CB02490, 16 bytes long.
+ Data: <x   S           > 78 84 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4814} normal block at 0x000002539CB08450, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4813} normal block at 0x000002539CA085A0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4803} normal block at 0x000002539CA3EC70, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4799} normal block at 0x000002539CB02620, 16 bytes long.
+ Data: < v  S           > C8 76 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4798} normal block at 0x000002539CB02710, 16 bytes long.
+ Data: < v  S           > A0 76 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4797} normal block at 0x000002539CB026C0, 16 bytes long.
+ Data: <xv  S           > 78 76 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4794} normal block at 0x000002539CB07650, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4793} normal block at 0x000002539CA081A0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4783} normal block at 0x000002539CA3EA30, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4778} normal block at 0x000002539CB02760, 16 bytes long.
+ Data: < i  S           > A8 69 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4777} normal block at 0x000002539CB02440, 16 bytes long.
+ Data: < i  S           > 80 69 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4776} normal block at 0x000002539CB02670, 16 bytes long.
+ Data: <Xi  S           > 58 69 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4773} normal block at 0x000002539CB06930, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4772} normal block at 0x000002539CA07FA0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4762} normal block at 0x000002539CA3F1B0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4758} normal block at 0x000002539CB025D0, 16 bytes long.
+ Data: <Hs  S           > 48 73 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4757} normal block at 0x000002539CB02260, 16 bytes long.
+ Data: < s  S           > 20 73 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4756} normal block at 0x000002539CB02210, 16 bytes long.
+ Data: < r  S           > F8 72 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4753} normal block at 0x000002539CB072D0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4752} normal block at 0x000002539CA0A7A0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4742} normal block at 0x000002539CA3E550, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4738} normal block at 0x000002539CB02170, 16 bytes long.
+ Data: <hk  S           > 68 6B B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4737} normal block at 0x000002539CB02120, 16 bytes long.
+ Data: <@k  S           > 40 6B B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4736} normal block at 0x000002539CB020D0, 16 bytes long.
+ Data: < k  S           > 18 6B B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4733} normal block at 0x000002539CB06AF0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4732} normal block at 0x000002539CA0A5A0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4722} normal block at 0x000002539CA3F450, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4718} normal block at 0x000002539CB01FE0, 16 bytes long.
+ Data: <(   S           > 28 82 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4717} normal block at 0x000002539CB01450, 16 bytes long.
+ Data: <    S           > 00 82 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4716} normal block at 0x000002539CB01F90, 16 bytes long.
+ Data: <    S           > D8 81 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4713} normal block at 0x000002539CB081B0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4712} normal block at 0x000002539CA07BA0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4702} normal block at 0x000002539CA3E8B0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4698} normal block at 0x000002539CB02350, 16 bytes long.
+ Data: <Hl  S           > 48 6C B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4697} normal block at 0x000002539CB01EF0, 16 bytes long.
+ Data: < l  S           > 20 6C B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4696} normal block at 0x000002539CB012C0, 16 bytes long.
+ Data: < k  S           > F8 6B B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4693} normal block at 0x000002539CB06BD0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4692} normal block at 0x000002539CB03440, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4682} normal block at 0x000002539CA3F390, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4678} normal block at 0x000002539CB01B80, 16 bytes long.
+ Data: <    S           > A8 85 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4677} normal block at 0x000002539CB01180, 16 bytes long.
+ Data: <    S           > 80 85 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4676} normal block at 0x000002539CB01630, 16 bytes long.
+ Data: <X   S           > 58 85 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4673} normal block at 0x000002539CB08530, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4672} normal block at 0x000002539CB06240, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4662} normal block at 0x000002539CA3F3F0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4658} normal block at 0x000002539CB02080, 16 bytes long.
+ Data: <    S           > 88 86 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4657} normal block at 0x000002539CB02030, 16 bytes long.
+ Data: <`   S           > 60 86 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4656} normal block at 0x000002539CB01C20, 16 bytes long.
+ Data: <8   S           > 38 86 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4653} normal block at 0x000002539CB08610, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4652} normal block at 0x000002539CB04E40, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4642} normal block at 0x000002539CA3F150, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4638} normal block at 0x000002539CB01CC0, 16 bytes long.
+ Data: < u  S           > E8 75 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4637} normal block at 0x000002539CB01310, 16 bytes long.
+ Data: < u  S           > C0 75 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4636} normal block at 0x000002539CB01AE0, 16 bytes long.
+ Data: < u  S           > 98 75 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4633} normal block at 0x000002539CB07570, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4632} normal block at 0x000002539CB04240, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4622} normal block at 0x000002539CA3D170, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4618} normal block at 0x000002539CB01590, 16 bytes long.
+ Data: < w  S           > A8 77 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4617} normal block at 0x000002539CB01A90, 16 bytes long.
+ Data: < w  S           > 80 77 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4616} normal block at 0x000002539CB01270, 16 bytes long.
+ Data: <Xw  S           > 58 77 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4613} normal block at 0x000002539CB07730, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4612} normal block at 0x000002539CB02A40, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4602} normal block at 0x000002539CA3CF30, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4598} normal block at 0x000002539CB02300, 16 bytes long.
+ Data: < h  S           > C8 68 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4597} normal block at 0x000002539CB010E0, 16 bytes long.
+ Data: < h  S           > A0 68 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4596} normal block at 0x000002539CB01A40, 16 bytes long.
+ Data: <xh  S           > 78 68 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4593} normal block at 0x000002539CB06850, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4592} normal block at 0x000002539CB03E40, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4582} normal block at 0x000002539CA3CED0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4578} normal block at 0x000002539CB023F0, 16 bytes long.
+ Data: <H   S           > 48 81 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4577} normal block at 0x000002539CB013B0, 16 bytes long.
+ Data: <    S           > 20 81 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4576} normal block at 0x000002539CB019F0, 16 bytes long.
+ Data: <    S           > F8 80 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4573} normal block at 0x000002539CB080D0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4572} normal block at 0x000002539CB06040, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4562} normal block at 0x000002539CA3CD50, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4558} normal block at 0x000002539CB01720, 16 bytes long.
+ Data: <hr  S           > 68 72 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4557} normal block at 0x000002539CB01360, 16 bytes long.
+ Data: <@r  S           > 40 72 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4556} normal block at 0x000002539CB019A0, 16 bytes long.
+ Data: < r  S           > 18 72 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4553} normal block at 0x000002539CB071F0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4552} normal block at 0x000002539CB05E40, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4542} normal block at 0x000002539CA3E250, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4538} normal block at 0x000002539CB022B0, 16 bytes long.
+ Data: < q  S           > 88 71 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4537} normal block at 0x000002539CB01950, 16 bytes long.
+ Data: <`q  S           > 60 71 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4536} normal block at 0x000002539CB01DB0, 16 bytes long.
+ Data: <8q  S           > 38 71 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4533} normal block at 0x000002539CB07110, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4532} normal block at 0x000002539CB03640, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4522} normal block at 0x000002539CA3E2B0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4518} normal block at 0x000002539CB01D60, 16 bytes long.
+ Data: <h   S           > 68 80 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4517} normal block at 0x000002539CB01E50, 16 bytes long.
+ Data: <@   S           > 40 80 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4516} normal block at 0x000002539CB01900, 16 bytes long.
+ Data: <    S           > 18 80 B0 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4513} normal block at 0x000002539CB07FF0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4512} normal block at 0x000002539CB05840, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4502} normal block at 0x000002539CA3DE90, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4498} normal block at 0x000002539CB01BD0, 16 bytes long.
+ Data: <    S           > 88 F7 A3 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4497} normal block at 0x000002539CB015E0, 16 bytes long.
+ Data: <`   S           > 60 F7 A3 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4496} normal block at 0x000002539CB01860, 16 bytes long.
+ Data: <8   S           > 38 F7 A3 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4493} normal block at 0x000002539CA3F710, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4492} normal block at 0x000002539CB05A40, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4482} normal block at 0x000002539CA3E0D0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4478} normal block at 0x000002539CB017C0, 16 bytes long.
+ Data: <    S           > 08 10 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4477} normal block at 0x000002539CB01810, 16 bytes long.
+ Data: <    S           > E0 0F A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4476} normal block at 0x000002539CB018B0, 16 bytes long.
+ Data: <    S           > B8 0F A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4473} normal block at 0x000002539CA40F90, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4472} normal block at 0x000002539CB04C40, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4462} normal block at 0x000002539CA3E070, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4458} normal block at 0x000002539CB01400, 16 bytes long.
+ Data: <h   S           > 68 0D A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4457} normal block at 0x000002539CB01040, 16 bytes long.
+ Data: <@   S           > 40 0D A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4456} normal block at 0x000002539CB016D0, 16 bytes long.
+ Data: <    S           > 18 0D A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4453} normal block at 0x000002539CA40CF0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4452} normal block at 0x000002539CB05040, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4442} normal block at 0x000002539CA3E010, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4438} normal block at 0x000002539CB01770, 16 bytes long.
+ Data: <    S           > 88 0C A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4437} normal block at 0x000002539CB01680, 16 bytes long.
+ Data: <`   S           > 60 0C A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4436} normal block at 0x000002539CB01F40, 16 bytes long.
+ Data: <8   S           > 38 0C A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4433} normal block at 0x000002539CA40C10, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4432} normal block at 0x000002539CB03840, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4422} normal block at 0x000002539CA3DFB0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4418} normal block at 0x000002539CB01C70, 16 bytes long.
+ Data: <    S           > C8 0A A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4417} normal block at 0x000002539CB01D10, 16 bytes long.
+ Data: <    S           > A0 0A A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4416} normal block at 0x000002539CB01540, 16 bytes long.
+ Data: <x   S           > 78 0A A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4413} normal block at 0x000002539CA40A50, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4412} normal block at 0x000002539CB02840, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4402} normal block at 0x000002539CA3DEF0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4398} normal block at 0x000002539CB014F0, 16 bytes long.
+ Data: <(   S           > 28 08 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4397} normal block at 0x000002539CB011D0, 16 bytes long.
+ Data: <    S           > 00 08 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4396} normal block at 0x000002539CB021C0, 16 bytes long.
+ Data: <    S           > D8 07 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4393} normal block at 0x000002539CA407B0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4392} normal block at 0x000002539CB05640, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4382} normal block at 0x000002539CA3DB90, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4378} normal block at 0x000002539CB01090, 16 bytes long.
+ Data: <    S           > 88 05 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4377} normal block at 0x000002539CB01B30, 16 bytes long.
+ Data: <`   S           > 60 05 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4376} normal block at 0x000002539CB01E00, 16 bytes long.
+ Data: <8   S           > 38 05 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4373} normal block at 0x000002539CA40510, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4372} normal block at 0x000002539CB03C40, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4362} normal block at 0x000002539CA3D110, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4358} normal block at 0x000002539CB023A0, 16 bytes long.
+ Data: <    S           > C8 11 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4357} normal block at 0x000002539CB01EA0, 16 bytes long.
+ Data: <    S           > A0 11 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4356} normal block at 0x000002539CB01130, 16 bytes long.
+ Data: <x   S           > 78 11 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4353} normal block at 0x000002539CA41150, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4352} normal block at 0x000002539CB04840, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4342} normal block at 0x000002539CA3D7D0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4338} normal block at 0x000002539CB014A0, 16 bytes long.
+ Data: <    S           > A8 04 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4337} normal block at 0x000002539CB01220, 16 bytes long.
+ Data: <    S           > 80 04 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4336} normal block at 0x000002539CAFFF60, 16 bytes long.
+ Data: <X   S           > 58 04 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4333} normal block at 0x000002539CA40430, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4332} normal block at 0x000002539CB02C40, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4322} normal block at 0x000002539CA3D950, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4318} normal block at 0x000002539CB00F00, 16 bytes long.
+ Data: <    S           > C8 03 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4317} normal block at 0x000002539CAFFD80, 16 bytes long.
+ Data: <    S           > A0 03 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4316} normal block at 0x000002539CB00E60, 16 bytes long.
+ Data: <x   S           > 78 03 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4313} normal block at 0x000002539CA40350, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4312} normal block at 0x000002539CB04440, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4302} normal block at 0x000002539CA3DAD0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4298} normal block at 0x000002539CB00E10, 16 bytes long.
+ Data: <    S           > 08 02 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4297} normal block at 0x000002539CB00DC0, 16 bytes long.
+ Data: <    S           > E0 01 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4296} normal block at 0x000002539CB00B90, 16 bytes long.
+ Data: <    S           > B8 01 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4293} normal block at 0x000002539CA40190, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4292} normal block at 0x000002539CB05C40, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4282} normal block at 0x000002539CA3DDD0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4278} normal block at 0x000002539CB00AF0, 16 bytes long.
+ Data: <H   S           > 48 00 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4277} normal block at 0x000002539CB00BE0, 16 bytes long.
+ Data: <    S           > 20 00 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4276} normal block at 0x000002539CB00D20, 16 bytes long.
+ Data: <    S           > F8 FF A3 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4273} normal block at 0x000002539CA3FFD0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4272} normal block at 0x000002539CB06440, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4262} normal block at 0x000002539CA3DD10, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4258} normal block at 0x000002539CB00A00, 16 bytes long.
+ Data: <    S           > A8 F6 A3 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4257} normal block at 0x000002539CB00960, 16 bytes long.
+ Data: <    S           > 80 F6 A3 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4256} normal block at 0x000002539CAFFCE0, 16 bytes long.
+ Data: <X   S           > 58 F6 A3 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4253} normal block at 0x000002539CA3F630, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4252} normal block at 0x000002539CB05440, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4242} normal block at 0x000002539CA3D8F0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4238} normal block at 0x000002539CB00EB0, 16 bytes long.
+ Data: <    S           > 08 FB A3 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4237} normal block at 0x000002539CB00910, 16 bytes long.
+ Data: <    S           > E0 FA A3 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4236} normal block at 0x000002539CAFFC90, 16 bytes long.
+ Data: <    S           > B8 FA A3 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4233} normal block at 0x000002539CA3FA90, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4232} normal block at 0x000002539CB03A40, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4222} normal block at 0x000002539CA3CE70, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4218} normal block at 0x000002539CB008C0, 16 bytes long.
+ Data: <    S           > A8 12 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4217} normal block at 0x000002539CAFFC40, 16 bytes long.
+ Data: <    S           > 80 12 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4216} normal block at 0x000002539CB00870, 16 bytes long.
+ Data: <X   S           > 58 12 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4213} normal block at 0x000002539CA41230, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4212} normal block at 0x000002539CB04640, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4202} normal block at 0x000002539CA3E4F0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4198} normal block at 0x000002539CB00C80, 16 bytes long.
+ Data: <h   S           > 68 14 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4197} normal block at 0x000002539CB00C30, 16 bytes long.
+ Data: <@   S           > 40 14 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4196} normal block at 0x000002539CB00820, 16 bytes long.
+ Data: <    S           > 18 14 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4193} normal block at 0x000002539CA413F0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4192} normal block at 0x000002539CB03240, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4182} normal block at 0x000002539CA3D650, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4178} normal block at 0x000002539CB00F50, 16 bytes long.
+ Data: <    S           > E8 02 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4177} normal block at 0x000002539CB007D0, 16 bytes long.
+ Data: <    S           > C0 02 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4176} normal block at 0x000002539CB00B40, 16 bytes long.
+ Data: <    S           > 98 02 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4173} normal block at 0x000002539CA40270, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4172} normal block at 0x000002539CB02E40, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4162} normal block at 0x000002539CA3E3D0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4157} normal block at 0x000002539CB00780, 16 bytes long.
+ Data: <(   S           > 28 01 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4156} normal block at 0x000002539CB00730, 16 bytes long.
+ Data: <    S           > 00 01 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4155} normal block at 0x000002539CB00000, 16 bytes long.
+ Data: <    S           > D8 00 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4152} normal block at 0x000002539CA400B0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4151} normal block at 0x000002539CB05240, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4141} normal block at 0x000002539CA3DCB0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4137} normal block at 0x000002539CB00500, 16 bytes long.
+ Data: <    S           > C8 FC A3 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4136} normal block at 0x000002539CB00230, 16 bytes long.
+ Data: <    S           > A0 FC A3 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4135} normal block at 0x000002539CB001E0, 16 bytes long.
+ Data: <x   S           > 78 FC A3 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4132} normal block at 0x000002539CA3FC50, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4131} normal block at 0x000002539CB04A40, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4121} normal block at 0x000002539CA3D0B0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4117} normal block at 0x000002539CB00410, 16 bytes long.
+ Data: <H   S           > 48 0E A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4116} normal block at 0x000002539CB009B0, 16 bytes long.
+ Data: <    S           > 20 0E A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4115} normal block at 0x000002539CB00460, 16 bytes long.
+ Data: <    S           > F8 0D A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4112} normal block at 0x000002539CA40DD0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4111} normal block at 0x000002539CB04040, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4101} normal block at 0x000002539CA3E1F0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4097} normal block at 0x000002539CB004B0, 16 bytes long.
+ Data: <    S           > C8 F5 A3 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4096} normal block at 0x000002539CAFFEC0, 16 bytes long.
+ Data: <    S           > A0 F5 A3 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4095} normal block at 0x000002539CAFFD30, 16 bytes long.
+ Data: <x   S           > 78 F5 A3 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4092} normal block at 0x000002539CA3F550, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4091} normal block at 0x000002539CB03040, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4081} normal block at 0x000002539CA3D470, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4077} normal block at 0x000002539CAFFE70, 16 bytes long.
+ Data: <(   S           > 28 FA A3 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4076} normal block at 0x000002539CB000F0, 16 bytes long.
+ Data: <    S           > 00 FA A3 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4075} normal block at 0x000002539CB00690, 16 bytes long.
+ Data: <    S           > D8 F9 A3 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4072} normal block at 0x000002539CA3F9B0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4071} normal block at 0x000002539CAFAA20, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4061} normal block at 0x000002539CA3D710, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4057} normal block at 0x000002539CB003C0, 16 bytes long.
+ Data: <    S           > 88 FE A3 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4056} normal block at 0x000002539CB000A0, 16 bytes long.
+ Data: <`   S           > 60 FE A3 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4055} normal block at 0x000002539CB00190, 16 bytes long.
+ Data: <8   S           > 38 FE A3 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4052} normal block at 0x000002539CA3FE10, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4051} normal block at 0x000002539CAFCE20, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4041} normal block at 0x000002539CA3DBF0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4037} normal block at 0x000002539CAFFFB0, 16 bytes long.
+ Data: <    S           > A8 0B A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4036} normal block at 0x000002539CB005F0, 16 bytes long.
+ Data: <    S           > 80 0B A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4035} normal block at 0x000002539CB00FF0, 16 bytes long.
+ Data: <X   S           > 58 0B A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4032} normal block at 0x000002539CA40B30, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4031} normal block at 0x000002539CAFC620, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4021} normal block at 0x000002539CA3D350, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{4017} normal block at 0x000002539CB00FA0, 16 bytes long.
+ Data: <    S           > 88 13 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4016} normal block at 0x000002539CB006E0, 16 bytes long.
+ Data: <`   S           > 60 13 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4015} normal block at 0x000002539CB00AA0, 16 bytes long.
+ Data: <8   S           > 38 13 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{4012} normal block at 0x000002539CA41310, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {4011} normal block at 0x000002539CAFDE20, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{4001} normal block at 0x000002539CA3CDB0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3997} normal block at 0x000002539CB00A50, 16 bytes long.
+ Data: <    S           > 08 09 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3996} normal block at 0x000002539CB00050, 16 bytes long.
+ Data: <    S           > E0 08 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3995} normal block at 0x000002539CB00320, 16 bytes long.
+ Data: <    S           > B8 08 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3992} normal block at 0x000002539CA40890, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3991} normal block at 0x000002539CAFE420, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3981} normal block at 0x000002539CA3E490, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3977} normal block at 0x000002539CB002D0, 16 bytes long.
+ Data: <H   S           > 48 F9 A3 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3976} normal block at 0x000002539CB00CD0, 16 bytes long.
+ Data: <    S           > 20 F9 A3 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3975} normal block at 0x000002539CB005A0, 16 bytes long.
+ Data: <    S           > F8 F8 A3 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3972} normal block at 0x000002539CA3F8D0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3971} normal block at 0x000002539CAFBC20, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3961} normal block at 0x000002539CA3D2F0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3957} normal block at 0x000002539CB00640, 16 bytes long.
+ Data: <    S           > E8 10 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3956} normal block at 0x000002539CB00280, 16 bytes long.
+ Data: <    S           > C0 10 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3955} normal block at 0x000002539CAFFDD0, 16 bytes long.
+ Data: <    S           > 98 10 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3952} normal block at 0x000002539CA41070, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3951} normal block at 0x000002539CAFDC20, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3941} normal block at 0x000002539CA3DB30, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3937} normal block at 0x000002539CAFFF10, 16 bytes long.
+ Data: <h   S           > 68 F8 A3 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3936} normal block at 0x000002539CB00140, 16 bytes long.
+ Data: <@   S           > 40 F8 A3 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3935} normal block at 0x000002539CB00550, 16 bytes long.
+ Data: <    S           > 18 F8 A3 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3932} normal block at 0x000002539CA3F7F0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3931} normal block at 0x000002539CAFE220, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3921} normal block at 0x000002539CA3DF50, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3917} normal block at 0x000002539CAFFE20, 16 bytes long.
+ Data: <H   S           > 48 07 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3916} normal block at 0x000002539CB00370, 16 bytes long.
+ Data: <    S           > 20 07 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3915} normal block at 0x000002539CB00D70, 16 bytes long.
+ Data: <    S           > F8 06 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3912} normal block at 0x000002539CA406D0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3911} normal block at 0x000002539CAFD820, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3901} normal block at 0x000002539CA3D290, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3897} normal block at 0x000002539CAFFAB0, 16 bytes long.
+ Data: <    S           > E8 09 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3896} normal block at 0x000002539CAFED90, 16 bytes long.
+ Data: <    S           > C0 09 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3895} normal block at 0x000002539CAFF2E0, 16 bytes long.
+ Data: <    S           > 98 09 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3892} normal block at 0x000002539CA40970, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3891} normal block at 0x000002539CAFCC20, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3881} normal block at 0x000002539CA3D3B0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3877} normal block at 0x000002539CAFF650, 16 bytes long.
+ Data: <h   S           > 68 06 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3876} normal block at 0x000002539CAFEFC0, 16 bytes long.
+ Data: <@   S           > 40 06 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3875} normal block at 0x000002539CAFFA10, 16 bytes long.
+ Data: <    S           > 18 06 A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3872} normal block at 0x000002539CA405F0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3871} normal block at 0x000002539CAFD620, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3861} normal block at 0x000002539CA3D590, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3857} normal block at 0x000002539CAFED40, 16 bytes long.
+ Data: <    S           > E8 FB A3 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3856} normal block at 0x000002539CAFF470, 16 bytes long.
+ Data: <    S           > C0 FB A3 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3855} normal block at 0x000002539CAFF740, 16 bytes long.
+ Data: <    S           > 98 FB A3 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3852} normal block at 0x000002539CA3FB70, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3851} normal block at 0x000002539CAFCA20, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3841} normal block at 0x000002539CA3CFF0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3837} normal block at 0x000002539CAFE840, 16 bytes long.
+ Data: <(   S           > 28 0F A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3836} normal block at 0x000002539CAFF6F0, 16 bytes long.
+ Data: <    S           > 00 0F A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3835} normal block at 0x000002539CAFE980, 16 bytes long.
+ Data: <    S           > D8 0E A4 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3832} normal block at 0x000002539CA40EB0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3831} normal block at 0x000002539CAFC820, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3821} normal block at 0x000002539CA3D530, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3817} normal block at 0x000002539CAFECA0, 16 bytes long.
+ Data: <h   S           > 68 FF A3 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3816} normal block at 0x000002539CAFEC50, 16 bytes long.
+ Data: <@   S           > 40 FF A3 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3815} normal block at 0x000002539CAFF8D0, 16 bytes long.
+ Data: <    S           > 18 FF A3 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3812} normal block at 0x000002539CA3FEF0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3811} normal block at 0x000002539CAFB020, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3801} normal block at 0x000002539CA3D830, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3797} normal block at 0x000002539CAFF420, 16 bytes long.
+ Data: <    S           > A8 FD A3 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3796} normal block at 0x000002539CAFE930, 16 bytes long.
+ Data: <    S           > 80 FD A3 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3795} normal block at 0x000002539CAFF1F0, 16 bytes long.
+ Data: <X   S           > 58 FD A3 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3792} normal block at 0x000002539CA3FD30, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3791} normal block at 0x000002539CAFC420, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3781} normal block at 0x000002539CA3E430, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3777} normal block at 0x000002539CAFEED0, 16 bytes long.
+ Data: <    S           > 98 BB 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3776} normal block at 0x000002539CAFF100, 16 bytes long.
+ Data: <p   S           > 70 BB 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3775} normal block at 0x000002539CAFEB10, 16 bytes long.
+ Data: <H   S           > 48 BB 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3772} normal block at 0x000002539C9ABB20, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3771} normal block at 0x000002539CAFD220, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3761} normal block at 0x000002539CA3D6B0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3757} normal block at 0x000002539CAFF880, 16 bytes long.
+ Data: <x   S           > 78 AE 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3756} normal block at 0x000002539CAFEF20, 16 bytes long.
+ Data: <P   S           > 50 AE 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3755} normal block at 0x000002539CAFF560, 16 bytes long.
+ Data: <(   S           > 28 AE 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3752} normal block at 0x000002539C9AAE00, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3751} normal block at 0x000002539CAFAE20, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3741} normal block at 0x000002539CA3D770, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3736} normal block at 0x000002539CAFEBB0, 16 bytes long.
+ Data: <    S           > 18 AA 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3735} normal block at 0x000002539CAFF330, 16 bytes long.
+ Data: <    S           > F0 A9 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3734} normal block at 0x000002539CAFEC00, 16 bytes long.
+ Data: <    S           > C8 A9 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3731} normal block at 0x000002539C9AA9A0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3730} normal block at 0x000002539CAFAC20, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3720} normal block at 0x000002539CA3DD70, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3716} normal block at 0x000002539CAFF790, 16 bytes long.
+ Data: <    S           > 18 B1 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3715} normal block at 0x000002539CAFF060, 16 bytes long.
+ Data: <    S           > F0 B0 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3714} normal block at 0x000002539CAFF290, 16 bytes long.
+ Data: <    S           > C8 B0 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3711} normal block at 0x000002539C9AB0A0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3710} normal block at 0x000002539CAFE020, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3700} normal block at 0x000002539CA3E370, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3696} normal block at 0x000002539CAFF240, 16 bytes long.
+ Data: <8   S           > 38 A9 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3695} normal block at 0x000002539CAFF0B0, 16 bytes long.
+ Data: <    S           > 10 A9 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3694} normal block at 0x000002539CAFE8E0, 16 bytes long.
+ Data: <    S           > E8 A8 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3691} normal block at 0x000002539C9AA8C0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3690} normal block at 0x000002539CAFD420, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3680} normal block at 0x000002539CA3D9B0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3676} normal block at 0x000002539CAFE890, 16 bytes long.
+ Data: <8   S           > 38 B0 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3675} normal block at 0x000002539CAFEAC0, 16 bytes long.
+ Data: <    S           > 10 B0 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3674} normal block at 0x000002539CAFEA20, 16 bytes long.
+ Data: <    S           > E8 AF 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3671} normal block at 0x000002539C9AAFC0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3670} normal block at 0x000002539CAFC220, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3660} normal block at 0x000002539CA3D410, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3656} normal block at 0x000002539CAFF150, 16 bytes long.
+ Data: <    S           > D8 B9 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3655} normal block at 0x000002539CAFFBF0, 16 bytes long.
+ Data: <    S           > B0 B9 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3654} normal block at 0x000002539CAFEDE0, 16 bytes long.
+ Data: <    S           > 88 B9 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3651} normal block at 0x000002539C9AB960, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3650} normal block at 0x000002539CAFD020, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3640} normal block at 0x000002539CA3D890, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3636} normal block at 0x000002539CAFF3D0, 16 bytes long.
+ Data: <    S           > B8 AC 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3635} normal block at 0x000002539CAFF920, 16 bytes long.
+ Data: <    S           > 90 AC 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3634} normal block at 0x000002539CAFF6A0, 16 bytes long.
+ Data: <h   S           > 68 AC 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3631} normal block at 0x000002539C9AAC40, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3630} normal block at 0x000002539CAFDA20, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3620} normal block at 0x000002539CA3CF90, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3616} normal block at 0x000002539CAFF010, 16 bytes long.
+ Data: <X   S           > 58 A8 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3615} normal block at 0x000002539CAFEB60, 16 bytes long.
+ Data: <0   S           > 30 A8 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3614} normal block at 0x000002539CAFFB00, 16 bytes long.
+ Data: <    S           > 08 A8 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3611} normal block at 0x000002539C9AA7E0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3610} normal block at 0x000002539CAFBA20, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3600} normal block at 0x000002539CA3DA10, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3596} normal block at 0x000002539CAFFB50, 16 bytes long.
+ Data: <    S           > B8 BA 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3595} normal block at 0x000002539CAFF830, 16 bytes long.
+ Data: <    S           > 90 BA 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3594} normal block at 0x000002539CAFFBA0, 16 bytes long.
+ Data: <h   S           > 68 BA 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3591} normal block at 0x000002539C9ABA40, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3590} normal block at 0x000002539CAFB820, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3580} normal block at 0x000002539CA3D230, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3576} normal block at 0x000002539CAFF4C0, 16 bytes long.
+ Data: <X   S           > 58 AF 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3575} normal block at 0x000002539CAFF510, 16 bytes long.
+ Data: <0   S           > 30 AF 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3574} normal block at 0x000002539CAFEE30, 16 bytes long.
+ Data: <    S           > 08 AF 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3571} normal block at 0x000002539C9AAEE0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3570} normal block at 0x000002539CAFC020, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3560} normal block at 0x000002539CA3E130, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3556} normal block at 0x000002539CAFEA70, 16 bytes long.
+ Data: <8   S           > 38 C5 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3555} normal block at 0x000002539CAFE9D0, 16 bytes long.
+ Data: <    S           > 10 C5 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3554} normal block at 0x000002539CAFF5B0, 16 bytes long.
+ Data: <    S           > E8 C4 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3551} normal block at 0x000002539C9AC4C0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3550} normal block at 0x000002539CAFA820, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3540} normal block at 0x000002539CA3D4D0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3536} normal block at 0x000002539CAFF9C0, 16 bytes long.
+ Data: <    S           > F8 C6 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3535} normal block at 0x000002539CAFF600, 16 bytes long.
+ Data: <    S           > D0 C6 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3534} normal block at 0x000002539CAFF970, 16 bytes long.
+ Data: <    S           > A8 C6 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3531} normal block at 0x000002539C9AC680, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3530} normal block at 0x000002539CAFB420, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3520} normal block at 0x000002539CA3D1D0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3516} normal block at 0x000002539CAFEE80, 16 bytes long.
+ Data: <    S           > F8 B8 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3515} normal block at 0x000002539CAFFA60, 16 bytes long.
+ Data: <    S           > D0 B8 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3514} normal block at 0x000002539CAFEF70, 16 bytes long.
+ Data: <    S           > A8 B8 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3511} normal block at 0x000002539C9AB880, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3510} normal block at 0x000002539CAFB220, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3500} normal block at 0x000002539CA3D5F0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3496} normal block at 0x000002539CAFF380, 16 bytes long.
+ Data: <X   S           > 58 C4 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3495} normal block at 0x000002539CAFF1A0, 16 bytes long.
+ Data: <0   S           > 30 C4 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3494} normal block at 0x0000025399F1F5D0, 16 bytes long.
+ Data: <    S           > 08 C4 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3491} normal block at 0x000002539C9AC3E0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3490} normal block at 0x000002539CAFBE20, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3480} normal block at 0x000002539CA3DA70, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3476} normal block at 0x0000025399F24800, 16 bytes long.
+ Data: <X   S           > 58 B6 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3475} normal block at 0x0000025399F61D80, 16 bytes long.
+ Data: <0   S           > 30 B6 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3474} normal block at 0x0000025399F61BA0, 16 bytes long.
+ Data: <    S           > 08 B6 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3471} normal block at 0x000002539C9AB5E0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3470} normal block at 0x000002539CAFB620, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3460} normal block at 0x000002539CA3CE10, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3455} normal block at 0x0000025399F691C0, 16 bytes long.
+ Data: <x   S           > 78 B5 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3454} normal block at 0x0000025399F16E70, 16 bytes long.
+ Data: <P   S           > 50 B5 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3453} normal block at 0x0000025399F16E20, 16 bytes long.
+ Data: <(   S           > 28 B5 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3450} normal block at 0x000002539C9AB500, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3449} normal block at 0x000002539CBC9230, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3439} normal block at 0x000002539CA3E190, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3435} normal block at 0x0000025399F24760, 16 bytes long.
+ Data: <x   S           > 78 C3 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3434} normal block at 0x0000025395493540, 16 bytes long.
+ Data: <P   S           > 50 C3 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3433} normal block at 0x00000253954940D0, 16 bytes long.
+ Data: <(   S           > 28 C3 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3430} normal block at 0x000002539C9AC300, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3429} normal block at 0x000002539CBC9030, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3419} normal block at 0x000002539CA3DE30, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3415} normal block at 0x0000025399F198B0, 16 bytes long.
+ Data: <    S           > 98 B4 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3414} normal block at 0x0000025399F19AE0, 16 bytes long.
+ Data: <p   S           > 70 B4 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3413} normal block at 0x0000025395494170, 16 bytes long.
+ Data: <H   S           > 48 B4 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3410} normal block at 0x000002539C9AB420, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3409} normal block at 0x000002539CBCA630, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3399} normal block at 0x000002539CA3D050, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3395} normal block at 0x0000025395493D60, 16 bytes long.
+ Data: <    S           > 98 C2 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3394} normal block at 0x0000025399F613D0, 16 bytes long.
+ Data: <p   S           > 70 C2 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3393} normal block at 0x0000025399F62500, 16 bytes long.
+ Data: <H   S           > 48 C2 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3390} normal block at 0x000002539C9AC220, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3389} normal block at 0x000002539CBCA430, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3379} normal block at 0x000002539CA3DC50, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3375} normal block at 0x0000025399F61B50, 16 bytes long.
+ Data: <    S           > 98 AD 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3374} normal block at 0x0000025399F624B0, 16 bytes long.
+ Data: <p   S           > 70 AD 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3373} normal block at 0x0000025399F693F0, 16 bytes long.
+ Data: <H   S           > 48 AD 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3370} normal block at 0x000002539C9AAD20, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3369} normal block at 0x000002539CBCA230, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3359} normal block at 0x000002539C9462B0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3355} normal block at 0x0000025399F69940, 16 bytes long.
+ Data: <    S           > 18 C6 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3354} normal block at 0x0000025399F697B0, 16 bytes long.
+ Data: <    S           > F0 C5 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3353} normal block at 0x0000025399F69530, 16 bytes long.
+ Data: <    S           > C8 C5 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3350} normal block at 0x000002539C9AC5A0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3349} normal block at 0x000002539CBCA030, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3339} normal block at 0x000002539C946130, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3335} normal block at 0x0000025399F19D10, 16 bytes long.
+ Data: <    S           > D8 C0 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3334} normal block at 0x0000025399F19FE0, 16 bytes long.
+ Data: <    S           > B0 C0 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3333} normal block at 0x0000025399F19C70, 16 bytes long.
+ Data: <    S           > 88 C0 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3330} normal block at 0x000002539C9AC060, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3329} normal block at 0x000002539CBC9E30, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3319} normal block at 0x000002539C9460D0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3315} normal block at 0x0000025399F1A3A0, 16 bytes long.
+ Data: <    S           > D8 B2 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3314} normal block at 0x0000025399F19720, 16 bytes long.
+ Data: <    S           > B0 B2 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3313} normal block at 0x0000025399F1A350, 16 bytes long.
+ Data: <    S           > 88 B2 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3310} normal block at 0x000002539C9AB260, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3309} normal block at 0x000002539CBCAA30, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3299} normal block at 0x000002539C946070, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3295} normal block at 0x0000025399F19810, 16 bytes long.
+ Data: <    S           > D8 AB 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3294} normal block at 0x0000025399F19C20, 16 bytes long.
+ Data: <    S           > B0 AB 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3293} normal block at 0x0000025399F19BD0, 16 bytes long.
+ Data: <    S           > 88 AB 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3290} normal block at 0x000002539C9AAB60, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3289} normal block at 0x000002539CBCAC30, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3279} normal block at 0x000002539C946010, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3274} normal block at 0x0000025399F19EF0, 16 bytes long.
+ Data: <    S           > F8 BF 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3273} normal block at 0x0000025399F19860, 16 bytes long.
+ Data: <    S           > D0 BF 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3272} normal block at 0x0000025399F1A170, 16 bytes long.
+ Data: <    S           > A8 BF 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3269} normal block at 0x000002539C9ABF80, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3268} normal block at 0x000002539CBC9C30, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3258} normal block at 0x000002539C945FB0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3254} normal block at 0x0000025399F19F90, 16 bytes long.
+ Data: <    S           > F8 B1 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3253} normal block at 0x0000025399F19680, 16 bytes long.
+ Data: <    S           > D0 B1 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3252} normal block at 0x0000025399F1A300, 16 bytes long.
+ Data: <    S           > A8 B1 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3249} normal block at 0x000002539C9AB180, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3248} normal block at 0x000002539CBCA830, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3238} normal block at 0x000002539C945D10, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3234} normal block at 0x0000025399F17320, 16 bytes long.
+ Data: <    S           > 18 B8 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3233} normal block at 0x0000025399F172D0, 16 bytes long.
+ Data: <    S           > F0 B7 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3232} normal block at 0x0000025399F17410, 16 bytes long.
+ Data: <    S           > C8 B7 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3229} normal block at 0x000002539C9AB7A0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3228} normal block at 0x000002539CBC9830, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3218} normal block at 0x000002539C945230, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3214} normal block at 0x0000025399F16DD0, 16 bytes long.
+ Data: <    S           > 18 BF 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3213} normal block at 0x0000025399F16BF0, 16 bytes long.
+ Data: <    S           > F0 BE 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3212} normal block at 0x0000025399F16C40, 16 bytes long.
+ Data: <    S           > C8 BE 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3209} normal block at 0x000002539C9ABEA0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3208} normal block at 0x000002539CBC9630, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3198} normal block at 0x000002539C9451D0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3194} normal block at 0x0000025399F17370, 16 bytes long.
+ Data: <    S           > F8 AA 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3193} normal block at 0x0000025399F17AF0, 16 bytes long.
+ Data: <    S           > D0 AA 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3192} normal block at 0x0000025399F17960, 16 bytes long.
+ Data: <    S           > A8 AA 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3189} normal block at 0x000002539C9AAA80, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3188} normal block at 0x000002539CBC9A30, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3178} normal block at 0x000002539C945B30, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3174} normal block at 0x0000025399F170F0, 16 bytes long.
+ Data: <x   S           > 78 BC 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3173} normal block at 0x0000025399F16EC0, 16 bytes long.
+ Data: <P   S           > 50 BC 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3172} normal block at 0x0000025399F179B0, 16 bytes long.
+ Data: <(   S           > 28 BC 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3169} normal block at 0x000002539C9ABC00, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3168} normal block at 0x000002539CA27490, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3158} normal block at 0x000002539C946250, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3153} normal block at 0x0000025399F16F60, 16 bytes long.
+ Data: <8   S           > 38 BE 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3152} normal block at 0x0000025399F17910, 16 bytes long.
+ Data: <    S           > 10 BE 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3151} normal block at 0x0000025399F174B0, 16 bytes long.
+ Data: <    S           > E8 BD 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3148} normal block at 0x000002539C9ABDC0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3147} normal block at 0x000002539CA27290, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3137} normal block at 0x000002539C945AD0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3133} normal block at 0x0000025399F16D80, 16 bytes long.
+ Data: <X   S           > 58 BD 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3132} normal block at 0x0000025399F17820, 16 bytes long.
+ Data: <0   S           > 30 BD 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3131} normal block at 0x0000025399F177D0, 16 bytes long.
+ Data: <    S           > 08 BD 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3128} normal block at 0x000002539C9ABCE0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3127} normal block at 0x000002539CA27090, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3117} normal block at 0x000002539C945A10, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3113} normal block at 0x0000025399F16F10, 16 bytes long.
+ Data: <    S           > B8 B3 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3112} normal block at 0x0000025399F17280, 16 bytes long.
+ Data: <    S           > 90 B3 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3111} normal block at 0x0000025399F25980, 16 bytes long.
+ Data: <h   S           > 68 B3 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3108} normal block at 0x000002539C9AB340, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3107} normal block at 0x000002539A0E85E0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3097} normal block at 0x000002539C945890, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3093} normal block at 0x0000025399F25840, 16 bytes long.
+ Data: <8   S           > 38 B7 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3092} normal block at 0x0000025399F257F0, 16 bytes long.
+ Data: <    S           > 10 B7 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3091} normal block at 0x0000025399F257A0, 16 bytes long.
+ Data: <    S           > E8 B6 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3088} normal block at 0x000002539C9AB6C0, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3087} normal block at 0x000002539A0E83E0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3077} normal block at 0x000002539C9459B0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3072} normal block at 0x0000025399F25520, 16 bytes long.
+ Data: <    S           > B8 C1 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3071} normal block at 0x0000025399F25430, 16 bytes long.
+ Data: <    S           > 90 C1 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3070} normal block at 0x0000025399F256B0, 16 bytes long.
+ Data: <h   S           > 68 C1 9A 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{3067} normal block at 0x000002539C9AC140, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3066} normal block at 0x000002539A0E81E0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3056} normal block at 0x000002539C945950, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3052} normal block at 0x0000025399F25750, 16 bytes long.
+ Data: <  Q S           > A8 81 51 95 53 02 00 00 00 00 00 00 00 00 00 00 
+{3051} normal block at 0x0000025399F254D0, 16 bytes long.
+ Data: <  Q S           > 80 81 51 95 53 02 00 00 00 00 00 00 00 00 00 00 
+{3050} normal block at 0x0000025399F253E0, 16 bytes long.
+ Data: <X Q S           > 58 81 51 95 53 02 00 00 00 00 00 00 00 00 00 00 
+{3047} normal block at 0x0000025395518130, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3046} normal block at 0x000002539A0E7FE0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3036} normal block at 0x000002539C945290, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3032} normal block at 0x0000025399F25390, 16 bytes long.
+ Data: <  Q S           > 08 7F 51 95 53 02 00 00 00 00 00 00 00 00 00 00 
+{3031} normal block at 0x0000025399F25A20, 16 bytes long.
+ Data: < ~Q S           > E0 7E 51 95 53 02 00 00 00 00 00 00 00 00 00 00 
+{3030} normal block at 0x0000025399F25340, 16 bytes long.
+ Data: < ~Q S           > B8 7E 51 95 53 02 00 00 00 00 00 00 00 00 00 00 
+{3027} normal block at 0x0000025395517E90, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3026} normal block at 0x000002539C9D2940, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{3016} normal block at 0x000002539C9458F0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{3011} normal block at 0x0000025399F252A0, 16 bytes long.
+ Data: < zQ S           > A8 7A 51 95 53 02 00 00 00 00 00 00 00 00 00 00 
+{3010} normal block at 0x0000025399F25930, 16 bytes long.
+ Data: < zQ S           > 80 7A 51 95 53 02 00 00 00 00 00 00 00 00 00 00 
+{3009} normal block at 0x0000025399F25C50, 16 bytes long.
+ Data: <XzQ S           > 58 7A 51 95 53 02 00 00 00 00 00 00 00 00 00 00 
+{3006} normal block at 0x0000025395517A30, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {3005} normal block at 0x000002539C9DEBD0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{2995} normal block at 0x000002539C944FF0, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{2991} normal block at 0x0000025399F258E0, 16 bytes long.
+ Data: < yQ S           > C8 79 51 95 53 02 00 00 00 00 00 00 00 00 00 00 
+{2990} normal block at 0x0000025399F25B60, 16 bytes long.
+ Data: < yQ S           > A0 79 51 95 53 02 00 00 00 00 00 00 00 00 00 00 
+{2989} normal block at 0x0000025399F25200, 16 bytes long.
+ Data: <xyQ S           > 78 79 51 95 53 02 00 00 00 00 00 00 00 00 00 00 
+{2986} normal block at 0x0000025395517950, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {2985} normal block at 0x000002539C9DEDD0, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{2975} normal block at 0x000002539C945410, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{2970} normal block at 0x0000025399F25700, 16 bytes long.
+ Data: < xQ S           > E8 78 51 95 53 02 00 00 00 00 00 00 00 00 00 00 
+{2969} normal block at 0x0000025399F251B0, 16 bytes long.
+ Data: < xQ S           > C0 78 51 95 53 02 00 00 00 00 00 00 00 00 00 00 
+{2968} normal block at 0x0000025399F259D0, 16 bytes long.
+ Data: < xQ S           > 98 78 51 95 53 02 00 00 00 00 00 00 00 00 00 00 
+{2965} normal block at 0x0000025395517870, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {2964} normal block at 0x000002539C9AA490, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{2954} normal block at 0x000002539C944F90, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{2949} normal block at 0x0000025399F25890, 16 bytes long.
+ Data: < xQ S           > 08 78 51 95 53 02 00 00 00 00 00 00 00 00 00 00 
+{2948} normal block at 0x0000025399F25480, 16 bytes long.
+ Data: < wQ S           > E0 77 51 95 53 02 00 00 00 00 00 00 00 00 00 00 
+{2947} normal block at 0x0000025399F25160, 16 bytes long.
+ Data: < wQ S           > B8 77 51 95 53 02 00 00 00 00 00 00 00 00 00 00 
+{2944} normal block at 0x0000025395517790, 160 bytes long.
+ Data: <(  -            > 28 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+{2943} normal block at 0x0000025399F25BB0, 16 bytes long.
+ Data: <`g  S           > 60 67 9D 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{2942} normal block at 0x000002539C9D6750, 64 bytes long.
+ Data: <  H S    f  S   > 00 C9 48 95 53 02 00 00 D0 66 9D 9C 53 02 00 00 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {2941} normal block at 0x000002539C99CA20, 448 bytes long.
+ Data: < MR  MR  MR  MR > FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF FF 4D 52 FF 
+{2931} normal block at 0x000002539C945710, 24 bytes long.
+ Data: <                > 04 00 00 00 1C 00 00 00 20 03 00 00 20 03 00 00 
+{2924} normal block at 0x0000025399F25AC0, 16 bytes long.
+ Data: <(wQ S           > 28 77 51 95 53 02 00 00 00 00 00 00 00 00 00 00 
+{2923} normal block at 0x0000025399F25070, 16 bytes long.
+ Data: < wQ S           > 00 77 51 95 53 02 00 00 00 00 00 00 00 00 00 00 
+{2922} normal block at 0x0000025399F23E00, 16 bytes long.
+ Data: < vQ S           > D8 76 51 95 53 02 00 00 00 00 00 00 00 00 00 00 
+{2919} normal block at 0x00000253955176B0, 160 bytes long.
+ Data: <   -            > 20 0E 05 2D F6 7F 00 00 00 00 00 00 01 CD CD CD 
+{2918} normal block at 0x0000025399F244E0, 16 bytes long.
+ Data: <HvQ S           > 48 76 51 95 53 02 00 00 00 00 00 00 00 00 00 00 
+{2917} normal block at 0x0000025399F1EE00, 16 bytes long.
+ Data: < vQ S           > 20 76 51 95 53 02 00 00 00 00 00 00 00 00 00 00 
+{2916} normal block at 0x0000025399F1EDB0, 16 bytes long.
+ Data: < uQ S           > F8 75 51 95 53 02 00 00 00 00 00 00 00 00 00 00 
+{2913} normal block at 0x00000253955175D0, 160 bytes long.
+ Data: <   -            > A8 0F 05 2D F6 7F 00 00 00 00 00 00 00 CD CD CD 
+{2912} normal block at 0x0000025399F1FE40, 16 bytes long.
+ Data: < /  S           > 20 2F 97 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{2911} normal block at 0x0000025399F1ED10, 16 bytes long.
+ Data: < .  S           > F8 2E 97 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{2910} normal block at 0x0000025399F1EC70, 16 bytes long.
+ Data: < .  S           > D0 2E 97 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{2909} normal block at 0x0000025399F1FE90, 16 bytes long.
+ Data: < .  S           > A8 2E 97 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{2906} normal block at 0x000002539C972E80, 208 bytes long.
+ Data: <   -            > 98 05 05 2D F6 7F 00 00 00 00 00 00 01 CD CD CD 
+{2905} normal block at 0x0000025399F1F760, 16 bytes long.
+ Data: < f  S           > E0 66 9D 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{2904} normal block at 0x000002539C9D66D0, 64 bytes long.
+ Data: <Pg  S   Pi  S   > 50 67 9D 9C 53 02 00 00 50 69 9D 9C 53 02 00 00 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {2903} normal block at 0x000002539CB88FA0, 262144 bytes long.
+ Data: <u[* u[* u[* u[* > 75 5B 2A 00 75 5B 2A 00 75 5B 2A 00 75 5B 2A 00 
+{2893} normal block at 0x000002539C945BF0, 24 bytes long.
+ Data: <                > 00 01 00 00 00 01 00 00 20 03 00 00 20 03 00 00 
+{2890} normal block at 0x0000025399F1F850, 16 bytes long.
+ Data: <`i  S           > 60 69 9D 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{2889} normal block at 0x000002539C9D6950, 64 bytes long.
+ Data: < f  S   P]  S   > D0 66 9D 9C 53 02 00 00 50 5D 9D 9C 53 02 00 00 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {2888} normal block at 0x000002539E40C070, 4194304 bytes long.
+ Data: <                > 01 02 04 FF 0C 0D 0F FF 01 02 04 FF 01 02 04 FF 
+{2878} normal block at 0x000002539C9457D0, 24 bytes long.
+ Data: <                > 00 04 00 00 00 04 00 00 20 03 00 00 20 03 00 00 
+{2874} normal block at 0x0000025399F1F580, 16 bytes long.
+ Data: <`]  S           > 60 5D 9D 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{2873} normal block at 0x000002539C9D5D50, 64 bytes long.
+ Data: <Pi  S   P_  S   > 50 69 9D 9C 53 02 00 00 50 5F 9D 9C 53 02 00 00 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {2872} normal block at 0x000002539CAF5030, 22360 bytes long.
+ Data: <                > 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+{2862} normal block at 0x000002539C945A70, 24 bytes long.
+ Data: <V   A           > 56 00 00 00 41 00 00 00 20 03 00 00 20 03 00 00 
+{2859} normal block at 0x0000025399F1F710, 16 bytes long.
+ Data: <`_  S           > 60 5F 9D 9C 53 02 00 00 00 00 00 00 00 00 00 00 
+{2858} normal block at 0x000002539C9D5F50, 64 bytes long.
+ Data: <P]  S     H S   > 50 5D 9D 9C 53 02 00 00 00 C9 48 95 53 02 00 00 
+c:\users\keith\documents\codeprojects\hapi_2017\hapi_lib\hapirenderersfml.cpp(350) : {2857} normal block at 0x000002539CA374B0, 16384 bytes long.
+ Data: <                > FF FF FF 00 FF FF FF 00 FF FF FF 00 FF FF FF 00 
+{2848} normal block at 0x000002539C945F50, 24 bytes long.
+ Data: <@   @           > 40 00 00 00 40 00 00 00 20 03 00 00 20 03 00 00 
+{368} normal block at 0x000002539544F090, 128 bytes long.
+ Data: <P_  S   P_  S   > 50 5F 9D 9C 53 02 00 00 50 5F 9D 9C 53 02 00 00 
+{367} normal block at 0x00000253954934F0, 16 bytes long.
+ Data: <@ H S           > 40 B4 48 95 53 02 00 00 00 00 00 00 00 00 00 00 
+{366} normal block at 0x0000025395494300, 16 bytes long.
+ Data: <( H S           > 28 B4 48 95 53 02 00 00 00 00 00 00 00 00 00 00 
+{365} normal block at 0x000002539548C900, 64 bytes long.
+ Data: <P_  S   Pg  S   > 50 5F 9D 9C 53 02 00 00 50 67 9D 9C 53 02 00 00 
+{364} normal block at 0x000002539548B410, 96 bytes long.
+ Data: <          / S   > 20 03 00 00 20 03 00 00 80 C0 2F 9D 53 02 00 00 
+{363} normal block at 0x0000025395493950, 16 bytes long.
+ Data: <  H S           > 98 FE 48 95 53 02 00 00 00 00 00 00 00 00 00 00 
+{362} normal block at 0x000002539548FE90, 40 bytes long.
+ Data: <  H S   P9I S   > 10 B4 48 95 53 02 00 00 50 39 49 95 53 02 00 00 
+Object dump complete.
+The program '[10608] HAPI_Start.exe' has exited with code 0 (0x0).
